@@ -3,7 +3,8 @@ title: extract json value directly in pyspark
 date: '2023-08-11T00:00:00+00:00'
 lastmod: '2023-08-11T00:00:00+00:00'
 slug: extract-json-value-directly-in-pyspark
-categories: []
+categories:
+- database
 tags: []
 draft: false
 ---

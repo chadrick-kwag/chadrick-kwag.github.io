@@ -3,7 +3,8 @@ title: 'paper summary: "VarifocalNet: An IoU-aware Dense Object Detector"(VFNet)
 date: '2021-06-29T00:00:00+00:00'
 lastmod: '2021-06-29T00:00:00+00:00'
 slug: paper-summary-varifocalnet-an-iou-aware-dense-object-detectorvfnet
-categories: []
+categories:
+- paper-review
 tags:
 - object-detection
 - paper-review

@@ -3,7 +3,8 @@ title: avoiding full gpu memory occupation during training in pytorch
 date: '2020-04-21T00:00:00+00:00'
 lastmod: '2020-04-21T00:00:00+00:00'
 slug: avoiding-full-gpu-memory-occupation-during-training-in-pytorch
-categories: []
+categories:
+- machine-learning
 tags:
 - gpu-memory-full
 - pytorch

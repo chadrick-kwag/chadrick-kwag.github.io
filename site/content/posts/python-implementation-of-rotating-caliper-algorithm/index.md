@@ -3,7 +3,8 @@ title: python implementation of rotating caliper algorithm
 date: '2020-08-12T00:00:00+00:00'
 lastmod: '2020-08-12T00:00:00+00:00'
 slug: python-implementation-of-rotating-caliper-algorithm
-categories: []
+categories:
+- python
 tags:
 - python-implementation
 - rotating-caliper

@@ -4,7 +4,8 @@ title: 'paper review: "Generative Teaching Networks: Accelerating Neural Archite
 date: '2021-03-07T00:00:00+00:00'
 lastmod: '2021-03-07T00:00:00+00:00'
 slug: paper-review-generative-teaching-networks-accelerating-neural-architecture-search-by-learning-to-generate-synthetic-training-data
-categories: []
+categories:
+- paper-review
 tags:
 - generative-teaching-networks
 - gtn

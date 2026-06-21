@@ -3,7 +3,8 @@ title: git error when checkout remote branch
 date: '2020-02-20T00:00:00+00:00'
 lastmod: '2020-02-20T00:00:00+00:00'
 slug: git-error-when-checkout-remote-branch
-categories: []
+categories:
+- tools
 tags:
 - git
 - git-checkout

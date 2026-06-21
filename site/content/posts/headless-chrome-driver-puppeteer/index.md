@@ -3,7 +3,8 @@ title: 'headless chrome driver: puppeteer'
 date: '2020-03-04T00:00:00+00:00'
 lastmod: '2020-03-04T00:00:00+00:00'
 slug: headless-chrome-driver-puppeteer
-categories: []
+categories:
+- web
 tags:
 - chromium
 - headless-chrome

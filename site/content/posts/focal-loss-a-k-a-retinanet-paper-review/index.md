@@ -3,7 +3,8 @@ title: Focal Loss (a.k.a RetinaNet) paper review
 date: '2018-11-18T00:00:00+00:00'
 lastmod: '2018-11-18T00:00:00+00:00'
 slug: focal-loss-a-k-a-retinanet-paper-review
-categories: []
+categories:
+- paper-review
 tags:
 - focal-loss
 - object-detection

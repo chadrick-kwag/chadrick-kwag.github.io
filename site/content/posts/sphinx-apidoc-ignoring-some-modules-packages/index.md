@@ -3,7 +3,8 @@ title: sphinx-apidoc ignoring some modules/packages
 date: '2019-02-01T00:00:00+00:00'
 lastmod: '2019-02-01T00:00:00+00:00'
 slug: sphinx-apidoc-ignoring-some-modules-packages
-categories: []
+categories:
+- tools
 tags:
 - sphinx
 draft: false

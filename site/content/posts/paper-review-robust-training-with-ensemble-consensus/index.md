@@ -3,7 +3,8 @@ title: 'paper review: Robust Training with Ensemble Consensus'
 date: '2020-05-25T00:00:00+00:00'
 lastmod: '2020-05-25T00:00:00+00:00'
 slug: paper-review-robust-training-with-ensemble-consensus
-categories: []
+categories:
+- paper-review
 tags:
 - paper-review
 draft: false

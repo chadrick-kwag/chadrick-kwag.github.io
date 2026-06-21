@@ -3,7 +3,8 @@ title: get attribute/inner html of html element in python selenium
 date: '2020-03-29T00:00:00+00:00'
 lastmod: '2020-03-29T00:00:00+00:00'
 slug: get-attribute-inner-html-of-html-element-in-python-selenium
-categories: []
+categories:
+- python
 tags:
 - getattribute
 - selenium

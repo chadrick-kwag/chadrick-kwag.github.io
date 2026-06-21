@@ -3,7 +3,8 @@ title: reasons why forget bias initialized to 1 is good practice in lstm
 date: '2020-04-03T00:00:00+00:00'
 lastmod: '2020-04-03T00:00:00+00:00'
 slug: reasons-why-forget-bias-initialized-to-1-is-good-practice-in-lstm
-categories: []
+categories:
+- machine-learning
 tags:
 - forget-bias
 - lstm

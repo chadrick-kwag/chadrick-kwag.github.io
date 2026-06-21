@@ -3,7 +3,8 @@ title: selecting rows based on timedelta values
 date: '2019-05-05T00:00:00+00:00'
 lastmod: '2019-05-05T00:00:00+00:00'
 slug: selecting-rows-based-on-timedelta-values
-categories: []
+categories:
+- python
 tags:
 - pandas
 - timedelta

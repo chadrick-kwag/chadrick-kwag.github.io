@@ -3,7 +3,8 @@ title: npm config setting (corporate proxy target config example)
 date: '2020-03-04T00:00:00+00:00'
 lastmod: '2020-03-04T00:00:00+00:00'
 slug: npm-config-setting-corporate-proxy-target-config-example
-categories: []
+categories:
+- linux
 tags:
 - npm
 - npm-config

@@ -4,7 +4,8 @@ title: 'paper review: "MobileNets: Efficient Convolutional Neural Networks for M
 date: '2020-12-19T00:00:00+00:00'
 lastmod: '2020-12-19T00:00:00+00:00'
 slug: paper-review-mobilenets-efficient-convolutional-neural-networks-for-mobile-vision-applications
-categories: []
+categories:
+- paper-review
 tags:
 - mobilenet
 draft: false

@@ -3,7 +3,8 @@ title: teacher forcing in training sequence output models
 date: '2020-10-05T00:00:00+00:00'
 lastmod: '2020-10-05T00:00:00+00:00'
 slug: teacher-forcing-in-training-sequence-output-models
-categories: []
+categories:
+- machine-learning
 tags:
 - rnn
 - teacher-forcing

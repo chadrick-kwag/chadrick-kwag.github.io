@@ -3,7 +3,8 @@ title: python interrupt, sigterm, sigkill, exception handling experiments
 date: '2022-07-08T00:00:00+00:00'
 lastmod: '2022-07-08T00:00:00+00:00'
 slug: python-interrupt-sigterm-sigkill-exception-handling-experiments
-categories: []
+categories:
+- python
 tags:
 - exception
 - keyboardinterrupt

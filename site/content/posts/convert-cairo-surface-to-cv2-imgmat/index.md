@@ -3,7 +3,8 @@ title: convert cairo surface to cv2 imgmat
 date: '2018-12-03T00:00:00+00:00'
 lastmod: '2018-12-03T00:00:00+00:00'
 slug: convert-cairo-surface-to-cv2-imgmat
-categories: []
+categories:
+- machine-learning
 tags:
 - cairo
 - cv2

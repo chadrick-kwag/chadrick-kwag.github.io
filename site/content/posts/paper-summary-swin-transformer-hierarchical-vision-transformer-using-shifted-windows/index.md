@@ -4,7 +4,8 @@ title: 'paper summary: Swin Transformer: Hierarchical Vision Transformer using S
 date: '2021-09-27T00:00:00+00:00'
 lastmod: '2021-09-27T00:00:00+00:00'
 slug: paper-summary-swin-transformer-hierarchical-vision-transformer-using-shifted-windows
-categories: []
+categories:
+- paper-review
 tags:
 - swin-transformer
 draft: false

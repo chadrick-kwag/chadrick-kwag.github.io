@@ -3,7 +3,8 @@ title: sitk sample code
 date: '2018-12-12T00:00:00+00:00'
 lastmod: '2018-12-12T00:00:00+00:00'
 slug: sitk-sample-code
-categories: []
+categories:
+- machine-learning
 tags:
 - sitk
 draft: false

@@ -3,7 +3,8 @@ title: '`keras.load_weight` and `keras.load_model` gives different results'
 date: '2019-10-29T00:00:00+00:00'
 lastmod: '2019-10-29T00:00:00+00:00'
 slug: keras-load_weight-and-keras-load_model-gives-different-results
-categories: []
+categories:
+- machine-learning
 tags:
 - load_model
 - tensorflow

@@ -4,7 +4,8 @@ title: 'paper review: Intriguing properties of neural networks (getting adversar
 date: '2019-12-08T00:00:00+00:00'
 lastmod: '2019-12-08T00:00:00+00:00'
 slug: paper-review-intriguing-properties-of-neural-networks
-categories: []
+categories:
+- paper-review
 tags:
 - adversarial-example
 - adversarial-sample

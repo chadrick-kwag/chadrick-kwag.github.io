@@ -3,7 +3,8 @@ title: add tokens to huggingface tokenizer
 date: '2022-06-02T00:00:00+00:00'
 lastmod: '2022-06-02T00:00:00+00:00'
 slug: add-tokens-to-huggingface-tokenizer
-categories: []
+categories:
+- machine-learning
 tags:
 - huggingface
 - tokenizer

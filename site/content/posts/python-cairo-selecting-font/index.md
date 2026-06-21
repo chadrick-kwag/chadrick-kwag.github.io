@@ -3,7 +3,8 @@ title: python cairo selecting font
 date: '2019-03-12T00:00:00+00:00'
 lastmod: '2019-03-12T00:00:00+00:00'
 slug: python-cairo-selecting-font
-categories: []
+categories:
+- python
 tags:
 - cairo
 - font

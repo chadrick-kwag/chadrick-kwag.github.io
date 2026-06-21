@@ -4,7 +4,8 @@ title: 'paper review:"DeepVO: Towards End-to-End Visual Odometry with Deep Recur
 date: '2020-12-18T00:00:00+00:00'
 lastmod: '2020-12-18T00:00:00+00:00'
 slug: paper-reviewdeepvo-towards-end-to-end-visual-odometry-with-deep-recurrent-convolutional-neural-networks
-categories: []
+categories:
+- paper-review
 tags:
 - deepvo
 - dl-based-vo

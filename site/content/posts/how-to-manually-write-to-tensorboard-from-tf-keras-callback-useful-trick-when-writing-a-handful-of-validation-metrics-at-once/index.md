@@ -4,7 +4,8 @@ title: how to manually write to tensorboard from tf.keras callback (useful trick
 date: '2019-07-25T00:00:00+00:00'
 lastmod: '2019-07-25T00:00:00+00:00'
 slug: how-to-manually-write-to-tensorboard-from-tf-keras-callback-useful-trick-when-writing-a-handful-of-validation-metrics-at-once
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

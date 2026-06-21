@@ -3,7 +3,8 @@ title: saving and loading only architecture of tf.keras model
 date: '2019-05-25T00:00:00+00:00'
 lastmod: '2019-05-25T00:00:00+00:00'
 slug: saving-only-architecture-of-tf-keras-model
-categories: []
+categories:
+- machine-learning
 tags:
 - architecture
 - model

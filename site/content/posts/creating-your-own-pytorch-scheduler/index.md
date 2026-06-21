@@ -3,7 +3,8 @@ title: creating your own pytorch scheduler
 date: '2022-05-12T00:00:00+00:00'
 lastmod: '2022-05-12T00:00:00+00:00'
 slug: creating-your-own-pytorch-scheduler
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

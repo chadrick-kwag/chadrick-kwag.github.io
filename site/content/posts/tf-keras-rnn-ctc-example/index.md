@@ -3,7 +3,8 @@ title: How to implement ctc loss using tensorflow keras (feat. CRNN example)
 date: '2019-08-27T00:00:00+00:00'
 lastmod: '2019-08-27T00:00:00+00:00'
 slug: tf-keras-rnn-ctc-example
-categories: []
+categories:
+- machine-learning
 tags:
 - ctc-decoding
 - ctc-loss

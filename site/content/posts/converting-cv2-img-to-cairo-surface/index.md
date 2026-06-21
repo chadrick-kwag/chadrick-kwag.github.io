@@ -3,7 +3,8 @@ title: converting cv2 img to cairo surface(cairo.RGB format)
 date: '2018-11-13T00:00:00+00:00'
 lastmod: '2018-11-13T00:00:00+00:00'
 slug: converting-cv2-img-to-cairo-surface
-categories: []
+categories:
+- machine-learning
 tags:
 - cairo
 - cairocffi

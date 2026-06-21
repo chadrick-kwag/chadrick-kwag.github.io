@@ -3,7 +3,8 @@ title: how to manually change weight/bias in torch module
 date: '2020-04-03T00:00:00+00:00'
 lastmod: '2020-04-03T00:00:00+00:00'
 slug: how-to-manually-change-weight-bias-in-torch-module
-categories: []
+categories:
+- machine-learning
 tags:
 - change-bias
 - change-weight

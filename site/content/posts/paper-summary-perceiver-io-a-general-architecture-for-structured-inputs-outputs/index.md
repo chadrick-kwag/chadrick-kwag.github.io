@@ -4,7 +4,8 @@ title: 'paper summary “Perceiver IO: A General Architecture for Structured Inp
 date: '2021-09-27T00:00:00+00:00'
 lastmod: '2021-09-27T00:00:00+00:00'
 slug: paper-summary-perceiver-io-a-general-architecture-for-structured-inputs-outputs
-categories: []
+categories:
+- paper-review
 tags:
 - perceiver
 - perceiver-io

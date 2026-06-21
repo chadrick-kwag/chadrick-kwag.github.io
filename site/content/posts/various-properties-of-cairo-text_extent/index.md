@@ -3,7 +3,8 @@ title: various properties of cairo `text_extent`
 date: '2020-11-23T00:00:00+00:00'
 lastmod: '2020-11-23T00:00:00+00:00'
 slug: various-properties-of-cairo-text_extent
-categories: []
+categories:
+- machine-learning
 tags:
 - cairo
 - context

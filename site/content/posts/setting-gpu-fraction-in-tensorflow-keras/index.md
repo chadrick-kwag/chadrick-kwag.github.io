@@ -3,7 +3,8 @@ title: setting gpu fraction in tensorflow keras
 date: '2019-09-17T00:00:00+00:00'
 lastmod: '2019-09-17T00:00:00+00:00'
 slug: setting-gpu-fraction-in-tensorflow-keras
-categories: []
+categories:
+- machine-learning
 tags:
 - gpu-fraction
 draft: false

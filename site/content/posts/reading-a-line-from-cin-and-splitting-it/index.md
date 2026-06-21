@@ -3,7 +3,8 @@ title: reading a line from cin and splitting it
 date: '2018-12-09T00:00:00+00:00'
 lastmod: '2018-12-09T00:00:00+00:00'
 slug: reading-a-line-from-cin-and-splitting-it
-categories: []
+categories:
+- python
 tags: []
 draft: false
 ---

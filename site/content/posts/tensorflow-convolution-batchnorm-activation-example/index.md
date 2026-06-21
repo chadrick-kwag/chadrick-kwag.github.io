@@ -3,7 +3,8 @@ title: tensorflow convolution + batchnorm + activation example
 date: '2019-08-19T00:00:00+00:00'
 lastmod: '2019-08-19T00:00:00+00:00'
 slug: tensorflow-convolution-batchnorm-activation-example
-categories: []
+categories:
+- machine-learning
 tags:
 - batchnorm
 - convolution

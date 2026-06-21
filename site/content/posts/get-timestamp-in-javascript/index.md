@@ -3,7 +3,8 @@ title: get timestamp in javascript
 date: '2020-03-10T00:00:00+00:00'
 lastmod: '2020-03-10T00:00:00+00:00'
 slug: get-timestamp-in-javascript
-categories: []
+categories:
+- web
 tags:
 - javascript
 - timestamp

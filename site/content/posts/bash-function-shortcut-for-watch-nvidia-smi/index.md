@@ -3,7 +3,8 @@ title: bash function shortcut for watch nvidia-smi
 date: '2021-03-11T00:00:00+00:00'
 lastmod: '2021-03-11T00:00:00+00:00'
 slug: bash-function-shortcut-for-watch-nvidia-smi
-categories: []
+categories:
+- linux
 tags:
 - nvidia-smi
 - nvmon

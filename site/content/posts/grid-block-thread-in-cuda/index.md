@@ -3,7 +3,8 @@ title: grid, block, thread in CUDA
 date: '2020-12-13T00:00:00+00:00'
 lastmod: '2020-12-13T00:00:00+00:00'
 slug: grid-block-thread-in-cuda
-categories: []
+categories:
+- machine-learning
 tags:
 - block
 - cuda

@@ -3,7 +3,8 @@ title: python encode string to percent encoded(urlencode) format
 date: '2021-03-15T00:00:00+00:00'
 lastmod: '2021-03-15T00:00:00+00:00'
 slug: python-encode-string-to-percent-encodedurlencode-format
-categories: []
+categories:
+- python
 tags:
 - percent-encode
 - python

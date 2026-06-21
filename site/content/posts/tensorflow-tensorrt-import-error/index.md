@@ -3,7 +3,8 @@ title: tensorflow tensorrt import error
 date: '2019-03-18T00:00:00+00:00'
 lastmod: '2019-03-18T00:00:00+00:00'
 slug: tensorflow-tensorrt-import-error
-categories: []
+categories:
+- machine-learning
 tags:
 - registeralreadylocked
 - tensorrt

@@ -3,7 +3,8 @@ title: downgrading cudnn version to match CUDA version
 date: '2019-06-23T00:00:00+00:00'
 lastmod: '2019-06-23T00:00:00+00:00'
 slug: downgrading-cudnn-version-to-match-cuda-version
-categories: []
+categories:
+- machine-learning
 tags:
 - cudnn
 - downgrade

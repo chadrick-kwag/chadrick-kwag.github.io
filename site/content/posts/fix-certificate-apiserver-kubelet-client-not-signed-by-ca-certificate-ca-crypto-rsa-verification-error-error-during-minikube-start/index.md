@@ -4,7 +4,8 @@ title: 'fix ''certificate apiserver-kubelet-client not signed by CA certificate 
 date: '2021-08-25T00:00:00+00:00'
 lastmod: '2021-08-25T00:00:00+00:00'
 slug: fix-certificate-apiserver-kubelet-client-not-signed-by-ca-certificate-ca-crypto-rsa-verification-error-error-during-minikube-start
-categories: []
+categories:
+- devops
 tags:
 - kube
 - kubectl

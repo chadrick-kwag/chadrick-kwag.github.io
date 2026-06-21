@@ -4,7 +4,8 @@ title: 'paper summary: "Arbitrary Style Transfer in Real-time with Adaptive Inst
 date: '2021-05-04T00:00:00+00:00'
 lastmod: '2021-05-04T00:00:00+00:00'
 slug: paper-summary-arbitrary-style-transfer-in-real-time-with-adaptive-instance-normalization
-categories: []
+categories:
+- paper-review
 tags:
 - adain
 - style-transfer

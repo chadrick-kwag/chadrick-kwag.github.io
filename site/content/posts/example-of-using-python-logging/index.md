@@ -3,7 +3,8 @@ title: example of using python logging logger
 date: '2018-11-14T00:00:00+00:00'
 lastmod: '2018-11-14T00:00:00+00:00'
 slug: example-of-using-python-logging
-categories: []
+categories:
+- python
 tags:
 - logger
 - logging

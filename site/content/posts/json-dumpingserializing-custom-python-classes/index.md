@@ -3,7 +3,8 @@ title: json dumping(serializing) custom python classes
 date: '2019-07-05T00:00:00+00:00'
 lastmod: '2019-07-05T00:00:00+00:00'
 slug: json-dumpingserializing-custom-python-classes
-categories: []
+categories:
+- python
 tags:
 - class
 - custom-class

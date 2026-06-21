@@ -3,7 +3,8 @@ title: minimal annotation xml file generation compatible with labelimg
 date: '2021-04-22T00:00:00+00:00'
 lastmod: '2021-04-22T00:00:00+00:00'
 slug: minimal-annotation-xml-file-generation-compatible-with-labelimg
-categories: []
+categories:
+- machine-learning
 tags:
 - convert-to-xml
 - labelimg

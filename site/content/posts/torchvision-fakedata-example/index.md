@@ -3,7 +3,8 @@ title: torchvision fakedata example
 date: '2020-12-12T00:00:00+00:00'
 lastmod: '2020-12-12T00:00:00+00:00'
 slug: torchvision-fakedata-example
-categories: []
+categories:
+- machine-learning
 tags:
 - fakedata
 - torchvision

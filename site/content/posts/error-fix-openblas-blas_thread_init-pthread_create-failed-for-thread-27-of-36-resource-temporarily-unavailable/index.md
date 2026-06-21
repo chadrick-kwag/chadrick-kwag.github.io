@@ -4,7 +4,8 @@ title: 'error fix: "OpenBLAS blas_thread_init: pthread_create failed for thread 
 date: '2020-08-04T00:00:00+00:00'
 lastmod: '2020-08-04T00:00:00+00:00'
 slug: error-fix-openblas-blas_thread_init-pthread_create-failed-for-thread-27-of-36-resource-temporarily-unavailable
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: korean(hangul) 2350 character set
 date: '2019-12-05T00:00:00+00:00'
 lastmod: '2019-12-05T00:00:00+00:00'
 slug: koreanhangul-2350-character-set
-categories: []
+categories:
+- tools
 tags:
 - 2350자
 - 한글

@@ -3,7 +3,8 @@ title: tf.where examples and its behavior
 date: '2019-07-22T00:00:00+00:00'
 lastmod: '2019-07-22T00:00:00+00:00'
 slug: tf-where-examples-and-its-behavior
-categories: []
+categories:
+- machine-learning
 tags:
 - example
 - tensorflow-equal

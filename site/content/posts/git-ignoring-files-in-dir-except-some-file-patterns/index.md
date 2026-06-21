@@ -3,7 +3,8 @@ title: git ignoring files in dir except some file patterns
 date: '2020-03-31T00:00:00+00:00'
 lastmod: '2020-03-31T00:00:00+00:00'
 slug: git-ignoring-files-in-dir-except-some-file-patterns
-categories: []
+categories:
+- tools
 tags:
 - git-ignore
 draft: false

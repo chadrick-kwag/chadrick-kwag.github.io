@@ -3,7 +3,8 @@ title: converting pandas column to datetime format
 date: '2019-05-05T00:00:00+00:00'
 lastmod: '2019-05-05T00:00:00+00:00'
 slug: converting-pandas-column-to-datetime-format
-categories: []
+categories:
+- python
 tags:
 - datetime
 - pandas

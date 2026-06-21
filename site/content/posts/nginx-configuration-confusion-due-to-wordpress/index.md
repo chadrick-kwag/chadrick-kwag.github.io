@@ -3,7 +3,8 @@ title: nginx configuration confusion due to wordpress
 date: '2018-11-11T00:00:00+00:00'
 lastmod: '2018-11-11T00:00:00+00:00'
 slug: nginx-configuration-confusion-due-to-wordpress
-categories: []
+categories:
+- web
 tags:
 - wordpress
 draft: false

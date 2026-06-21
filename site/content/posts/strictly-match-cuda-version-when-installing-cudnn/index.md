@@ -3,7 +3,8 @@ title: strictly match cuda version when installing cudnn
 date: '2019-07-07T00:00:00+00:00'
 lastmod: '2019-07-07T00:00:00+00:00'
 slug: strictly-match-cuda-version-when-installing-cudnn
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: gathering non-identical indices that match a condition in a matrix using 
 date: '2019-01-28T00:00:00+00:00'
 lastmod: '2019-01-28T00:00:00+00:00'
 slug: gathering-indices-that-matches-condition
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: postgres database backup and restoring
 date: '2021-02-10T00:00:00+00:00'
 lastmod: '2021-02-10T00:00:00+00:00'
 slug: postgres-database-backup-and-restoring
-categories: []
+categories:
+- database
 tags:
 - backup
 - postgres

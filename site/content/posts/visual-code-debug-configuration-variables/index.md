@@ -3,7 +3,8 @@ title: visual code debug configuration variables
 date: '2021-06-30T00:00:00+00:00'
 lastmod: '2021-06-30T00:00:00+00:00'
 slug: visual-code-debug-configuration-variables
-categories: []
+categories:
+- tools
 tags:
 - debug
 - launch-json

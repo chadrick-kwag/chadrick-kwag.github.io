@@ -3,7 +3,8 @@ title: how to add pagefind in hugo
 date: '2023-10-27T12:31:00+00:00'
 lastmod: '2023-10-27T12:31:00+00:00'
 slug: how-to-add-pagefind-in-hugo
-categories: []
+categories:
+- web
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: gitignore ignore config files except sample config file
 date: '2021-02-16T00:00:00+00:00'
 lastmod: '2021-02-16T00:00:00+00:00'
 slug: gitignore-ignore-config-files-except-sample-config-file
-categories: []
+categories:
+- linux
 tags:
 - config
 - git

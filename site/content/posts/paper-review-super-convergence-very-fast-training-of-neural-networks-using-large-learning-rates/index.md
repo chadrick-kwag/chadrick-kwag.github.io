@@ -4,7 +4,8 @@ title: 'paper review: "super convergence: very fast training of neural networks 
 date: '2020-06-16T00:00:00+00:00'
 lastmod: '2020-06-16T00:00:00+00:00'
 slug: paper-review-super-convergence-very-fast-training-of-neural-networks-using-large-learning-rates
-categories: []
+categories:
+- paper-review
 tags:
 - paper-review
 - super-convergence

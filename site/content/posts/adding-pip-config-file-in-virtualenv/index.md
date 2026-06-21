@@ -3,7 +3,8 @@ title: adding pip config file in virtualenv
 date: '2021-04-20T00:00:00+00:00'
 lastmod: '2021-04-20T00:00:00+00:00'
 slug: adding-pip-config-file-in-virtualenv
-categories: []
+categories:
+- python
 tags:
 - pip-conf
 - proxy

@@ -3,7 +3,8 @@ title: FCN, UNet, FPN comparison
 date: '2020-09-11T00:00:00+00:00'
 lastmod: '2020-09-11T00:00:00+00:00'
 slug: fcn-unet-fpn-comparison
-categories: []
+categories:
+- machine-learning
 tags:
 - difference
 - fcn

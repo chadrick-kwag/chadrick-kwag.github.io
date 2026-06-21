@@ -3,7 +3,8 @@ title: vue list item toggle class on click example
 date: '2019-01-03T00:00:00+00:00'
 lastmod: '2019-01-03T00:00:00+00:00'
 slug: vue-list-item-toggle-class-on-click-example
-categories: []
+categories:
+- web
 tags: []
 draft: false
 ---

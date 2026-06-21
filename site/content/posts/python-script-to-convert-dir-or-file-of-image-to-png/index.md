@@ -3,7 +3,8 @@ title: python script to convert dir or file of image to png
 date: '2020-04-01T00:00:00+00:00'
 lastmod: '2020-04-01T00:00:00+00:00'
 slug: python-script-to-convert-dir-or-file-of-image-to-png
-categories: []
+categories:
+- python
 tags:
 - convert-to-png
 - imagemagick

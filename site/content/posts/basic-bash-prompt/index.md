@@ -3,7 +3,8 @@ title: basic bash prompt
 date: '2023-06-15T00:00:00+00:00'
 lastmod: '2023-06-15T00:00:00+00:00'
 slug: basic-bash-prompt
-categories: []
+categories:
+- linux
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: python operator precedence
 date: '2020-11-19T00:00:00+00:00'
 lastmod: '2020-11-19T00:00:00+00:00'
 slug: python-operator-precedence
-categories: []
+categories:
+- python
 tags:
 - operator-precedence
 - operator-priority

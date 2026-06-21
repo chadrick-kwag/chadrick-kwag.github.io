@@ -3,7 +3,8 @@ title: importing fuse.js in javascript
 date: '2020-03-29T00:00:00+00:00'
 lastmod: '2020-03-29T00:00:00+00:00'
 slug: importing-fuse-js-in-javascript
-categories: []
+categories:
+- web
 tags:
 - fuse-js
 - import

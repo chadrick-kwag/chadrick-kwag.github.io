@@ -3,7 +3,8 @@ title: 'paper review: "High-Performance Large-Scale Image Recognition Without No
 date: '2021-03-02T00:00:00+00:00'
 lastmod: '2021-03-02T00:00:00+00:00'
 slug: paper-review-high-performance-large-scale-image-recognition-without-normalization
-categories: []
+categories:
+- paper-review
 tags:
 - adaptive-gradient-clipping
 - agc

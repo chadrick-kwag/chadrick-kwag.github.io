@@ -3,7 +3,8 @@ title: is it okay to calculate loss in cpu and backpropagate in torch?
 date: '2021-03-03T00:00:00+00:00'
 lastmod: '2021-03-03T00:00:00+00:00'
 slug: is-it-okay-to-calculate-loss-in-cpu-and-backpropagate-in-torch
-categories: []
+categories:
+- machine-learning
 tags:
 - calculate-loss-in-cpu
 - gpu-cpu

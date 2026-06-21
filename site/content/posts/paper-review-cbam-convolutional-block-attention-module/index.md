@@ -3,7 +3,8 @@ title: 'paper review: "CBAM: Convolutional Block Attention Module"'
 date: '2021-01-03T00:00:00+00:00'
 lastmod: '2021-01-03T00:00:00+00:00'
 slug: paper-review-cbam-convolutional-block-attention-module
-categories: []
+categories:
+- paper-review
 tags:
 - cbam
 - channel-attention-module

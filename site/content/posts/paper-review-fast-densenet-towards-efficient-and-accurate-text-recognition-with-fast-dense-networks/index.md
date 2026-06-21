@@ -4,7 +4,8 @@ title: 'paper review: "Fast DenseNet: Towards Efficient and Accurate Text Recogn
 date: '2020-06-16T00:00:00+00:00'
 lastmod: '2020-06-16T00:00:00+00:00'
 slug: paper-review-fast-densenet-towards-efficient-and-accurate-text-recognition-with-fast-dense-networks
-categories: []
+categories:
+- paper-review
 tags:
 - fast-densenet
 - fdensenet-u

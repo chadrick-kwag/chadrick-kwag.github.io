@@ -3,7 +3,8 @@ title: loading multiple tensorflow 1.x models at once
 date: '2021-04-19T00:00:00+00:00'
 lastmod: '2021-04-19T00:00:00+00:00'
 slug: loading-multiple-tensorflow-1-x-models-at-once
-categories: []
+categories:
+- machine-learning
 tags:
 - load-multiple-model
 - tensorflow

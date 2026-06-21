@@ -3,7 +3,8 @@ title: hoi4 lex
 date: '2019-01-10T00:00:00+00:00'
 lastmod: '2019-01-10T00:00:00+00:00'
 slug: hoi4-lex
-categories: []
+categories:
+- tools
 tags: []
 draft: false
 ---

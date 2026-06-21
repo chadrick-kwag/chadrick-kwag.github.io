@@ -3,7 +3,8 @@ title: qtwindeploy output missing 'libgcc_s_seh-1.dll' error fix
 date: '2021-09-19T00:00:00+00:00'
 lastmod: '2021-09-19T00:00:00+00:00'
 slug: qtwindeploy-output-missing-libgcc_s_seh-1-dll-error-fix
-categories: []
+categories:
+- tools
 tags:
 - libgcc_s_seh-1-dll
 - qt

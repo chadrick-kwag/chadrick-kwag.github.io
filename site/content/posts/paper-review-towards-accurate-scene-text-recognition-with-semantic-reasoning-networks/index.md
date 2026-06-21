@@ -4,7 +4,8 @@ title: 'paper review: Towards Accurate Scene Text Recognition with Semantic Reas
 date: '2020-12-30T00:00:00+00:00'
 lastmod: '2020-12-30T00:00:00+00:00'
 slug: paper-review-towards-accurate-scene-text-recognition-with-semantic-reasoning-networks
-categories: []
+categories:
+- paper-review
 tags:
 - paper-review
 - semantic-reasoning-network

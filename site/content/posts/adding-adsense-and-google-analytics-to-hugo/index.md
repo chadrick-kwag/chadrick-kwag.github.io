@@ -3,7 +3,8 @@ title: adding adsense and google analytics to hugo
 date: '2023-10-27T12:33:00+00:00'
 lastmod: '2023-10-27T12:33:00+00:00'
 slug: adding-adsense-and-google-analytics-to-hugo
-categories: []
+categories:
+- web
 tags: []
 draft: false
 ---

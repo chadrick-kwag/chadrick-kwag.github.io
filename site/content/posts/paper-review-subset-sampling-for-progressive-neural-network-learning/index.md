@@ -3,7 +3,8 @@ title: 'paper review: SUBSET SAMPLING FOR PROGRESSIVE NEURAL NETWORK LEARNING'
 date: '2020-02-24T00:00:00+00:00'
 lastmod: '2020-02-24T00:00:00+00:00'
 slug: paper-review-subset-sampling-for-progressive-neural-network-learning
-categories: []
+categories:
+- paper-review
 tags:
 - paper-review
 draft: false

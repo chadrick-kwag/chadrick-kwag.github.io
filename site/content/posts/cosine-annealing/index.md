@@ -3,7 +3,8 @@ title: cosine annealing
 date: '2021-03-14T00:00:00+00:00'
 lastmod: '2021-03-14T00:00:00+00:00'
 slug: cosine-annealing
-categories: []
+categories:
+- machine-learning
 tags:
 - cosine-annealing
 draft: false

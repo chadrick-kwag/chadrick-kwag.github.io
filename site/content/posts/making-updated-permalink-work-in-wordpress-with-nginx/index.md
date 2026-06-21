@@ -3,7 +3,8 @@ title: making updated permalink work in wordpress with nginx
 date: '2019-05-07T00:00:00+00:00'
 lastmod: '2019-05-07T00:00:00+00:00'
 slug: making-updated-permalink-work-in-wordpress-with-nginx
-categories: []
+categories:
+- web
 tags:
 - nginx
 - not-working

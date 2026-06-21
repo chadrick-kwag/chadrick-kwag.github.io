@@ -3,7 +3,8 @@ title: set pip config file in windows and basic configurations
 date: '2020-03-26T00:00:00+00:00'
 lastmod: '2020-03-26T00:00:00+00:00'
 slug: set-pip-config-file-in-windows-and-basic-configurations
-categories: []
+categories:
+- python
 tags:
 - pip-config
 - pip-ini

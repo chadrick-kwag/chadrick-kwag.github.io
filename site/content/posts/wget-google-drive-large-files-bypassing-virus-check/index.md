@@ -3,7 +3,8 @@ title: wget google drive large files bypassing virus check
 date: '2021-06-24T00:00:00+00:00'
 lastmod: '2021-06-24T00:00:00+00:00'
 slug: wget-google-drive-large-files-bypassing-virus-check
-categories: []
+categories:
+- tools
 tags:
 - google-drive
 - virus-check

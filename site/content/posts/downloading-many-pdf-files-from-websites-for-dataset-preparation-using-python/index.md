@@ -3,7 +3,8 @@ title: web scraping many pdf files from websites for dataset preparation using p
 date: '2022-05-24T00:00:00+00:00'
 lastmod: '2022-05-24T00:00:00+00:00'
 slug: downloading-many-pdf-files-from-websites-for-dataset-preparation-using-python
-categories: []
+categories:
+- python
 tags:
 - download
 - pdf

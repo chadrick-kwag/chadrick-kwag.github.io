@@ -3,7 +3,8 @@ title: '"X11 proxy: Unsupported authorisation protocol" error fix'
 date: '2020-03-05T00:00:00+00:00'
 lastmod: '2020-03-05T00:00:00+00:00'
 slug: x11-proxy-unsupported-authorisation-protocol-error-fix
-categories: []
+categories:
+- linux
 tags:
 - nautilus-error
 - unsupported-authorisation-protocol

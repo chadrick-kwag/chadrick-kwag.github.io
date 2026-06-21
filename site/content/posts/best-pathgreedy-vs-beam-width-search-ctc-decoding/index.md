@@ -3,7 +3,8 @@ title: best path(greedy) vs. beam width search ctc decoding
 date: '2019-09-26T00:00:00+00:00'
 lastmod: '2019-09-26T00:00:00+00:00'
 slug: best-pathgreedy-vs-beam-width-search-ctc-decoding
-categories: []
+categories:
+- machine-learning
 tags:
 - ctc-decoding
 draft: false

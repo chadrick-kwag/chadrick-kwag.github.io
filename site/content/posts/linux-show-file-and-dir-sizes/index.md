@@ -3,7 +3,8 @@ title: linux show file and dir sizes
 date: '2023-08-23T00:00:00+00:00'
 lastmod: '2023-08-23T00:00:00+00:00'
 slug: linux-show-file-and-dir-sizes
-categories: []
+categories:
+- linux
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: cd not working in sh script
 date: '2020-07-31T00:00:00+00:00'
 lastmod: '2020-07-31T00:00:00+00:00'
 slug: cd-not-working-in-sh-script
-categories: []
+categories:
+- linux
 tags: []
 draft: false
 ---

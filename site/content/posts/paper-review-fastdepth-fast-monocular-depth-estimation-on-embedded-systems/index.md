@@ -3,7 +3,8 @@ title: 'paper review: "FastDepth: Fast Monocular Depth Estimation on Embedded Sy
 date: '2020-12-19T00:00:00+00:00'
 lastmod: '2020-12-19T00:00:00+00:00'
 slug: paper-review-fastdepth-fast-monocular-depth-estimation-on-embedded-systems
-categories: []
+categories:
+- paper-review
 tags:
 - fastdepth
 draft: false

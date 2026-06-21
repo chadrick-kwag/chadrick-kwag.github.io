@@ -3,7 +3,8 @@ title: .screenrc sample
 date: '2018-12-24T00:00:00+00:00'
 lastmod: '2018-12-24T00:00:00+00:00'
 slug: screenrc-sample
-categories: []
+categories:
+- linux
 tags:
 - screenrc
 draft: false

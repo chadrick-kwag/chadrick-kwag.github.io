@@ -3,7 +3,8 @@ title: 'paper review: "Semantic Segmentation using Adversarial Networks"'
 date: '2021-03-08T00:00:00+00:00'
 lastmod: '2021-03-08T00:00:00+00:00'
 slug: paper-review-semantic-segmentation-using-adversarial-networks
-categories: []
+categories:
+- paper-review
 tags:
 - adversarial
 - adversarial-training

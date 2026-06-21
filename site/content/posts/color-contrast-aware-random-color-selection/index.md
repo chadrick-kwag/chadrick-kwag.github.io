@@ -3,7 +3,8 @@ title: color contrast aware random color selection
 date: '2020-05-29T00:00:00+00:00'
 lastmod: '2020-05-29T00:00:00+00:00'
 slug: color-contrast-aware-random-color-selection
-categories: []
+categories:
+- web
 tags:
 - color-contrast-ratio
 draft: false

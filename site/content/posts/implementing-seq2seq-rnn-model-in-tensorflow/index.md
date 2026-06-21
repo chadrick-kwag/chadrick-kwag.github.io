@@ -3,7 +3,8 @@ title: implementing seq2seq RNN model in tensorflow
 date: '2019-03-17T00:00:00+00:00'
 lastmod: '2019-03-17T00:00:00+00:00'
 slug: implementing-seq2seq-rnn-model-in-tensorflow
-categories: []
+categories:
+- machine-learning
 tags:
 - many-to-many
 - rnn

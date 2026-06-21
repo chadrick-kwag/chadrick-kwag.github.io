@@ -3,7 +3,8 @@ title: 'paper summary: "DocFormer: End-to-End Transformer for Document Understan
 date: '2021-11-23T00:00:00+00:00'
 lastmod: '2021-11-23T00:00:00+00:00'
 slug: paper-summary-docformer
-categories: []
+categories:
+- paper-review
 tags:
 - docformer
 - document-understanding

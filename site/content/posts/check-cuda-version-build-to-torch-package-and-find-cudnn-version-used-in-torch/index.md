@@ -3,7 +3,8 @@ title: check cuda version build to torch package and find cudnn version used in 
 date: '2020-08-06T00:00:00+00:00'
 lastmod: '2020-08-06T00:00:00+00:00'
 slug: check-cuda-version-build-to-torch-package-and-find-cudnn-version-used-in-torch
-categories: []
+categories:
+- machine-learning
 tags:
 - cuda-version
 - cudnn-version

@@ -3,7 +3,8 @@ title: loading checkpoint using Saver in an explicit seperate session and graph
 date: '2020-02-03T00:00:00+00:00'
 lastmod: '2020-02-03T00:00:00+00:00'
 slug: loading-checkpoint-using-saver-in-an-explicit-seperate-session-and-graph
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

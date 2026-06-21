@@ -3,7 +3,8 @@ title: get rotation angle between two vectors
 date: '2021-04-30T00:00:00+00:00'
 lastmod: '2021-04-30T00:00:00+00:00'
 slug: get-rotation-angle-between-two-vectors
-categories: []
+categories:
+- python
 tags:
 - angle
 - vector

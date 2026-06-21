@@ -3,7 +3,8 @@ title: qt graphicsview zoom scrolling
 date: '2020-06-29T00:00:00+00:00'
 lastmod: '2020-06-29T00:00:00+00:00'
 slug: qt-graphicsview-zoom-scrolling
-categories: []
+categories:
+- tools
 tags:
 - qt
 - scroll

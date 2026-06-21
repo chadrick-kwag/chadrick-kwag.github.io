@@ -3,7 +3,8 @@ title: 'paper review: Generalized Intersection over Union'
 date: '2020-12-03T00:00:00+00:00'
 lastmod: '2020-12-03T00:00:00+00:00'
 slug: paper-review-generalized-intersection-over-union
-categories: []
+categories:
+- paper-review
 tags:
 - generalized-iou
 - giou

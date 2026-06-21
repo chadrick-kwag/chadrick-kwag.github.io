@@ -3,7 +3,8 @@ title: 'Paper Review: "An Empirical Exploration of Recurrent Network Architectur
 date: '2019-09-18T00:00:00+00:00'
 lastmod: '2019-09-18T00:00:00+00:00'
 slug: paper-review-an-empirical-exploration-of-recurrent-network-architectures
-categories: []
+categories:
+- paper-review
 tags:
 - lstm
 - paper-review

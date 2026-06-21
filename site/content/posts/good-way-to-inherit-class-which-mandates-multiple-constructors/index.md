@@ -3,7 +3,8 @@ title: good way to inherit class which mandates multiple constructors
 date: '2019-09-29T00:00:00+00:00'
 lastmod: '2019-09-29T00:00:00+00:00'
 slug: good-way-to-inherit-class-which-mandates-multiple-constructors
-categories: []
+categories:
+- tools
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: tensorflow manual cross entropy loss calculation
 date: '2020-06-12T00:00:00+00:00'
 lastmod: '2020-06-12T00:00:00+00:00'
 slug: tensorflow-manual-cross-entropy-loss-calculation
-categories: []
+categories:
+- machine-learning
 tags:
 - cross-entropy-loss
 draft: false

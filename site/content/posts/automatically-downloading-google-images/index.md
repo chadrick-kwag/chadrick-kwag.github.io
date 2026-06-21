@@ -3,7 +3,8 @@ title: automatically downloading google images
 date: '2018-11-29T00:00:00+00:00'
 lastmod: '2018-11-29T00:00:00+00:00'
 slug: automatically-downloading-google-images
-categories: []
+categories:
+- python
 tags:
 - image-download
 draft: false

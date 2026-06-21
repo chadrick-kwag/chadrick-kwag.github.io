@@ -4,7 +4,8 @@ title: '`Tensor is not and element of this graph` error when using Keras model i
 date: '2019-01-21T00:00:00+00:00'
 lastmod: '2019-01-21T00:00:00+00:00'
 slug: tensor-is-not-and-element-of-this-graph-error-when-using-keras-model-in-multithread-in-python
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

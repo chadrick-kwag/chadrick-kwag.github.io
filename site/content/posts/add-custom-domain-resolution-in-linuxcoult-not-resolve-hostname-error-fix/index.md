@@ -3,7 +3,8 @@ title: add custom domain resolution in linux(could not resolve hostname error fi
 date: '2020-03-23T00:00:00+00:00'
 lastmod: '2020-03-23T00:00:00+00:00'
 slug: add-custom-domain-resolution-in-linuxcoult-not-resolve-hostname-error-fix
-categories: []
+categories:
+- linux
 tags:
 - could-not-resolve
 - etc-hosts

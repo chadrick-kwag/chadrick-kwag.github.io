@@ -3,7 +3,8 @@ title: adding proxy to webpack dev server to separate backend api server
 date: '2020-03-04T00:00:00+00:00'
 lastmod: '2020-03-04T00:00:00+00:00'
 slug: adding-proxy-to-webpack-dev-server-to-separate-backend-api-server
-categories: []
+categories:
+- web
 tags:
 - webpack-dev-server
 - webpack-dev-server-data-api

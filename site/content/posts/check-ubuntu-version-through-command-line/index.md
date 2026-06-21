@@ -3,7 +3,8 @@ title: check ubuntu version through command line
 date: '2020-08-06T00:00:00+00:00'
 lastmod: '2020-08-06T00:00:00+00:00'
 slug: check-ubuntu-version-through-command-line
-categories: []
+categories:
+- linux
 tags: []
 draft: false
 ---

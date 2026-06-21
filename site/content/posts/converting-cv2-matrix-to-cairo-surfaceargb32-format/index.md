@@ -3,7 +3,8 @@ title: converting cv2 matrix to cairo surface(ARGB32 format)
 date: '2018-11-13T00:00:00+00:00'
 lastmod: '2018-11-13T00:00:00+00:00'
 slug: converting-cv2-matrix-to-cairo-surfaceargb32-format
-categories: []
+categories:
+- machine-learning
 tags:
 - cairo
 - cairocffi

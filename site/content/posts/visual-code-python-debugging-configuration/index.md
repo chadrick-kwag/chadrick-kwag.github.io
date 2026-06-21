@@ -3,7 +3,8 @@ title: visual code python debugging configuration
 date: '2021-04-30T00:00:00+00:00'
 lastmod: '2021-04-30T00:00:00+00:00'
 slug: visual-code-python-debugging-configuration
-categories: []
+categories:
+- python
 tags:
 - debugging
 - launch-json

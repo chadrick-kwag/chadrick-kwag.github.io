@@ -4,7 +4,8 @@ title: 'fixing "Could not handshake: An unexpected TLS packet was received" erro
 date: '2022-07-21T00:00:00+00:00'
 lastmod: '2022-07-21T00:00:00+00:00'
 slug: fixing-could-not-handshake-an-unexpected-tls-packet-was-received-error-while-apt-update-in-docker-container-behind-corporate-proxy
-categories: []
+categories:
+- linux
 tags:
 - apt
 - docker

@@ -3,7 +3,8 @@ title: libcupti.so import error
 date: '2019-01-09T00:00:00+00:00'
 lastmod: '2019-01-09T00:00:00+00:00'
 slug: libcupti-so-import-error
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

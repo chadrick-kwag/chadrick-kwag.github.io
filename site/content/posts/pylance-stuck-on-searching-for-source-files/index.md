@@ -3,7 +3,8 @@ title: pylance stuck on "Searching for source files"
 date: '2022-07-31T00:00:00+00:00'
 lastmod: '2022-07-31T00:00:00+00:00'
 slug: pylance-stuck-on-searching-for-source-files
-categories: []
+categories:
+- python
 tags:
 - pylance
 - stuck

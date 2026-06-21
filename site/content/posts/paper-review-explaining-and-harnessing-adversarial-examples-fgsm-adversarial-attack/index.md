@@ -4,7 +4,8 @@ title: 'paper review: Explaining and Harnessing Adversarial Examples (FGSM adver
 date: '2019-12-11T00:00:00+00:00'
 lastmod: '2019-12-11T00:00:00+00:00'
 slug: paper-review-explaining-and-harnessing-adversarial-examples-fgsm-adversarial-attack
-categories: []
+categories:
+- paper-review
 tags:
 - adversarial-example
 - adversarial-fgsm

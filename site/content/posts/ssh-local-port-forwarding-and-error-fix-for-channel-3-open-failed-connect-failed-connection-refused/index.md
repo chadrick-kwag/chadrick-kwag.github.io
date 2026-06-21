@@ -4,7 +4,8 @@ title: 'ssh local port forwarding and error fix for "channel 3: open failed: con
 date: '2020-08-10T00:00:00+00:00'
 lastmod: '2020-08-10T00:00:00+00:00'
 slug: ssh-local-port-forwarding-and-error-fix-for-channel-3-open-failed-connect-failed-connection-refused
-categories: []
+categories:
+- linux
 tags:
 - channel-3-open-failed
 - ssh-local-port-forwarding

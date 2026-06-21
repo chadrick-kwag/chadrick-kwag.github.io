@@ -3,7 +3,8 @@ title: adding custom tf.keras metric
 date: '2019-04-30T00:00:00+00:00'
 lastmod: '2019-04-30T00:00:00+00:00'
 slug: adding-custom-tf-keras-metric
-categories: []
+categories:
+- machine-learning
 tags: []
 draft: false
 ---

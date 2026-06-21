@@ -3,7 +3,8 @@ title: how to check cuda version
 date: '2019-03-19T00:00:00+00:00'
 lastmod: '2019-03-19T00:00:00+00:00'
 slug: how-to-check-cuda-version
-categories: []
+categories:
+- machine-learning
 tags:
 - cuda
 - cuda-version

@@ -4,7 +4,8 @@ title: solving "'grub-efi-amd64-signed' package failed to install into /target/.
 date: '2020-06-03T00:00:00+00:00'
 lastmod: '2020-06-03T00:00:00+00:00'
 slug: solving-grub-efi-amd64-signed-package-failed-to-install-into-target-error-while-installing-ubuntu-20-04
-categories: []
+categories:
+- linux
 tags:
 - grub-efi-amd64-signed-package-failed-to-install
 - ubuntu-20-04-install

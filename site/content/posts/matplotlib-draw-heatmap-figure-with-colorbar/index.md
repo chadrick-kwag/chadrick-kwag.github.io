@@ -3,7 +3,8 @@ title: matplotlib draw heatmap figure with colorbar
 date: '2021-02-09T00:00:00+00:00'
 lastmod: '2021-02-09T00:00:00+00:00'
 slug: matplotlib-draw-heatmap-figure-with-colorbar
-categories: []
+categories:
+- python
 tags:
 - colorbar
 - figure

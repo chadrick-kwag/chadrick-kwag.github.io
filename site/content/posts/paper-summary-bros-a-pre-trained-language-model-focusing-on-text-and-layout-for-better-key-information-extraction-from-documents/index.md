@@ -4,7 +4,8 @@ title: 'paper summary: "BROS: A Pre-trained Language Model Focusing on Text and 
 date: '2021-11-10T00:00:00+00:00'
 lastmod: '2021-11-10T00:00:00+00:00'
 slug: paper-summary-bros-a-pre-trained-language-model-focusing-on-text-and-layout-for-better-key-information-extraction-from-documents
-categories: []
+categories:
+- paper-review
 tags:
 - bros
 draft: false

@@ -3,7 +3,8 @@ title: how to install cudnn(from tar file)
 date: '2019-09-17T00:00:00+00:00'
 lastmod: '2019-09-17T00:00:00+00:00'
 slug: how-to-install-cudnnfrom-tar-file
-categories: []
+categories:
+- machine-learning
 tags:
 - cudnn
 - install

@@ -3,7 +3,8 @@ title: add git branch indicator in bash prompt
 date: '2019-04-15T00:00:00+00:00'
 lastmod: '2019-04-15T00:00:00+00:00'
 slug: add-git-branch-indicator-in-bash-prompt
-categories: []
+categories:
+- linux
 tags: []
 draft: false
 ---

@@ -3,7 +3,8 @@ title: git lfs smudge error fix
 date: '2020-01-09T00:00:00+00:00'
 lastmod: '2020-01-09T00:00:00+00:00'
 slug: git-lfs-smudge-error-fix
-categories: []
+categories:
+- linux
 tags:
 - git-lfs
 - proxy

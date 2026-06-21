@@ -4,7 +4,8 @@ title: 'paper review: Spatial Pyramid Pooling in Deep Convolutional Networks for
 date: '2021-01-02T00:00:00+00:00'
 lastmod: '2021-01-02T00:00:00+00:00'
 slug: paper-review-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition
-categories: []
+categories:
+- paper-review
 tags:
 - spatial-pyramid-pooling
 - spp

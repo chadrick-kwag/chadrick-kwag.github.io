@@ -3,7 +3,8 @@ title: 'paper review: "EfficientDet: Scalable and Efficient Object Detection"'
 date: '2020-12-15T00:00:00+00:00'
 lastmod: '2020-12-15T00:00:00+00:00'
 slug: paper-review-efficientdet-scalable-and-efficient-object-detection
-categories: []
+categories:
+- paper-review
 tags:
 - efficientdet
 draft: false

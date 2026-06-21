@@ -3,7 +3,8 @@ title: relu, gelu , swish, mish activation function comparison
 date: '2022-05-25T00:00:00+00:00'
 lastmod: '2022-05-25T00:00:00+00:00'
 slug: relu-gelu-swish-mish-activation-function-comparison
-categories: []
+categories:
+- machine-learning
 tags:
 - activation-function
 - gelu

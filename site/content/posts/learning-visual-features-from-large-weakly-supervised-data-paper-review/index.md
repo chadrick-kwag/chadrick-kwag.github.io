@@ -3,7 +3,8 @@ title: '"Learning Visual Features from Large Weakly Supervised Data" paper revie
 date: '2020-08-31T00:00:00+00:00'
 lastmod: '2020-08-31T00:00:00+00:00'
 slug: learning-visual-features-from-large-weakly-supervised-data-paper-review
-categories: []
+categories:
+- paper-review
 tags:
 - weak-supervised
 - weakly-supervised

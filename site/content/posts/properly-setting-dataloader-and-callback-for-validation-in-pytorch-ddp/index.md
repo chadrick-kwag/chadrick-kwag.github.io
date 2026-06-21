@@ -3,7 +3,8 @@ title: Properly setting dataloader and callback for validation in pytorch DDP
 date: '2022-07-05T00:00:00+00:00'
 lastmod: '2022-07-05T00:00:00+00:00'
 slug: properly-setting-dataloader-and-callback-for-validation-in-pytorch-ddp
-categories: []
+categories:
+- machine-learning
 tags:
 - callback
 - dataloader

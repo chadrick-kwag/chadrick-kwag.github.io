@@ -3,7 +3,8 @@ title: apply proxy settings to python requests
 date: '2021-03-24T00:00:00+00:00'
 lastmod: '2021-03-24T00:00:00+00:00'
 slug: apply-proxy-settings-to-python-requests
-categories: []
+categories:
+- python
 tags:
 - proxy
 - requests

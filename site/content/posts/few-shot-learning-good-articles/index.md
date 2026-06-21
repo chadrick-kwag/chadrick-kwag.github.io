@@ -3,7 +3,8 @@ title: few shot learning good articles
 date: '2021-04-09T00:00:00+00:00'
 lastmod: '2021-04-09T00:00:00+00:00'
 slug: few-shot-learning-good-articles
-categories: []
+categories:
+- machine-learning
 tags:
 - few-shot-learning
 draft: false

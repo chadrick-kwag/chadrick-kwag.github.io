@@ -4,7 +4,8 @@ title: 'paper review: "LayoutLMV2: Multi-Modal Pre-training for Visually-Rich Do
 date: '2021-11-19T00:00:00+00:00'
 lastmod: '2021-11-19T00:00:00+00:00'
 slug: paper-summary-layoutlmv2
-categories: []
+categories:
+- paper-review
 tags:
 - document-understanding
 - kie

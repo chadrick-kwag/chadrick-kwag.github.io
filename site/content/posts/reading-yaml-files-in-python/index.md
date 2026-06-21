@@ -3,7 +3,8 @@ title: reading yaml files in python
 date: '2021-03-23T00:00:00+00:00'
 lastmod: '2021-03-23T00:00:00+00:00'
 slug: reading-yaml-files-in-python
-categories: []
+categories:
+- python
 tags:
 - python
 - yaml

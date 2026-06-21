@@ -3,7 +3,8 @@ title: qt shift scroll horizontal direction
 date: '2020-06-29T00:00:00+00:00'
 lastmod: '2020-06-29T00:00:00+00:00'
 slug: qt-shift-scroll-horizontal-direction
-categories: []
+categories:
+- tools
 tags:
 - horizontal-scroll
 - qt

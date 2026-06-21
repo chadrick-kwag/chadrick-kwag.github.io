@@ -4,7 +4,8 @@ title: '"ValueError: numpy.ndarray size changed, may indicate binary incompatibi
 date: '2021-07-21T00:00:00+00:00'
 lastmod: '2021-07-21T00:00:00+00:00'
 slug: valueerror-numpy-ndarray-size-changed-may-indicate-binary-incompatibility-error-fix
-categories: []
+categories:
+- python
 tags:
 - binary-incompatibility
 - pycocotools

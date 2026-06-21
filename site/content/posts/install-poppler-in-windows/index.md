@@ -3,7 +3,8 @@ title: install poppler in windows
 date: '2021-03-17T00:00:00+00:00'
 lastmod: '2021-03-17T00:00:00+00:00'
 slug: install-poppler-in-windows
-categories: []
+categories:
+- tools
 tags:
 - poppler
 - windows

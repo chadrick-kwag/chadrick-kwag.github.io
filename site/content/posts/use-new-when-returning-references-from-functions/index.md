@@ -3,7 +3,8 @@ title: use 'new' when returning references from functions
 date: '2019-03-24T00:00:00+00:00'
 lastmod: '2019-03-24T00:00:00+00:00'
 slug: use-new-when-returning-references-from-functions
-categories: []
+categories:
+- tools
 tags: []
 draft: false
 ---

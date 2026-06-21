@@ -4,7 +4,8 @@ title: 'paper summary: "Aggregated Residual Transformations for Deep Neural Netw
 date: '2021-03-29T00:00:00+00:00'
 lastmod: '2021-03-29T00:00:00+00:00'
 slug: paper-summary-aggregated-residual-transformations-for-deep-neural-networks-resnext-paper
-categories: []
+categories:
+- paper-review
 tags:
 - paper-review
 - paper-summary

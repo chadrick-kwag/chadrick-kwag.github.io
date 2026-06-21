@@ -3,7 +3,8 @@ title: Using curve fitting to fit an equation to designated data points
 date: '2020-02-18T00:00:00+00:00'
 lastmod: '2020-02-18T00:00:00+00:00'
 slug: using-curve-fitting-to-fit-an-equation-to-designated-data-points
-categories: []
+categories:
+- python
 tags:
 - curve-fitting
 - curve_fit

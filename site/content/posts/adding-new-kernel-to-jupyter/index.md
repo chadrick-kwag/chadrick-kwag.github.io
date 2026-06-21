@@ -3,7 +3,8 @@ title: adding new kernel to jupyter
 date: '2023-10-20T00:00:00+00:00'
 lastmod: '2023-10-20T00:00:00+00:00'
 slug: adding-new-kernel-to-jupyter
-categories: []
+categories:
+- python
 tags: []
 draft: false
 ---

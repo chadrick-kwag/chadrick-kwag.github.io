@@ -3,7 +3,8 @@ title: 'paper review: "Graph Attention Networks"'
 date: '2022-07-30T00:00:00+00:00'
 lastmod: '2022-07-30T00:00:00+00:00'
 slug: paper-review-graph-attention-networks
-categories: []
+categories:
+- paper-review
 tags:
 - gnn
 - graph-attention-layer

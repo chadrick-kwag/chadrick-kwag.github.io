@@ -3,7 +3,8 @@ title: how to merge branch along with merge commit
 date: '2020-02-28T00:00:00+00:00'
 lastmod: '2020-02-28T00:00:00+00:00'
 slug: how-to-merge-branch-along-with-merge-commit
-categories: []
+categories:
+- tools
 tags:
 - git
 - merge-commit

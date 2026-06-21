@@ -3,7 +3,8 @@ title: pytorch implementation of sinusoidal position encoding
 date: '2022-05-26T00:00:00+00:00'
 lastmod: '2022-05-26T00:00:00+00:00'
 slug: pytorch-implementation-of-sinusoidal-position-encoding
-categories: []
+categories:
+- machine-learning
 tags:
 - implementation
 - position-encoding

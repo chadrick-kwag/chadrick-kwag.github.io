@@ -4,7 +4,8 @@ title: 'paper review: "EfficientNet: Rethinking Model Scaling for Convolutional 
 date: '2021-03-12T00:00:00+00:00'
 lastmod: '2021-03-12T00:00:00+00:00'
 slug: paper-review-efficientnet-rethinking-model-scaling-for-convolutional-neural-networks
-categories: []
+categories:
+- paper-review
 tags:
 - efficientnet
 draft: false

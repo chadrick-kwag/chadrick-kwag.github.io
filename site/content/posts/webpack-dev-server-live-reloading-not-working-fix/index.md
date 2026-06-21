@@ -3,7 +3,8 @@ title: webpack dev server live reloading not working fix
 date: '2020-03-01T00:00:00+00:00'
 lastmod: '2020-03-01T00:00:00+00:00'
 slug: webpack-dev-server-live-reloading-not-working-fix
-categories: []
+categories:
+- web
 tags:
 - hot-reload
 - webpack-dev-server-hot-reload

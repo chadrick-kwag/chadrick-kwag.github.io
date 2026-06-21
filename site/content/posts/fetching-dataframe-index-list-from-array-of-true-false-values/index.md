@@ -3,7 +3,8 @@ title: fetching dataframe index list from array of True/False values
 date: '2019-05-04T00:00:00+00:00'
 lastmod: '2019-05-04T00:00:00+00:00'
 slug: fetching-dataframe-index-list-from-array-of-true-false-values
-categories: []
+categories:
+- python
 tags:
 - pandas
 draft: false

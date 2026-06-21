@@ -3,7 +3,8 @@ title: '"SkeletonNet: Shape Pixel to Skeleton Pixel" paper review'
 date: '2020-08-18T00:00:00+00:00'
 lastmod: '2020-08-18T00:00:00+00:00'
 slug: skeletonnet-shape-pixel-to-skeleton-pixel-paper-review
-categories: []
+categories:
+- paper-review
 tags:
 - paper-review
 - skeletonnet

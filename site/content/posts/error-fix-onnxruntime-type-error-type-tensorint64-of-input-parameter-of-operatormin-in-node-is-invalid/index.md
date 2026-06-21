@@ -4,7 +4,8 @@ title: 'error fix: onnxruntime "Type Error: Type ''tensor(int64)'' of input para
 date: '2021-11-17T00:00:00+00:00'
 lastmod: '2021-11-17T00:00:00+00:00'
 slug: error-fix-onnxruntime-type-error-type-tensorint64-of-input-parameter-of-operatormin-in-node-is-invalid
-categories: []
+categories:
+- machine-learning
 tags:
 - graph-invalid
 - onnx

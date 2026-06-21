@@ -3,7 +3,8 @@ title: specifying which gpu to use in tensorflow script
 date: '2019-03-18T00:00:00+00:00'
 lastmod: '2019-03-18T00:00:00+00:00'
 slug: specifying-which-gpu-to-use-in-tensorflow-script
-categories: []
+categories:
+- machine-learning
 tags:
 - gpu-select
 draft: false

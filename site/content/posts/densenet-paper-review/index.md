@@ -3,7 +3,8 @@ title: DenseNet paper review
 date: '2019-05-02T00:00:00+00:00'
 lastmod: '2019-05-02T00:00:00+00:00'
 slug: densenet-paper-review
-categories: []
+categories:
+- paper-review
 tags:
 - densenet
 draft: false

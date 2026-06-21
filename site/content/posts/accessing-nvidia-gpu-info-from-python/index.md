@@ -3,7 +3,8 @@ title: Accessing NVIDIA gpu info from python
 date: '2019-05-18T00:00:00+00:00'
 lastmod: '2019-05-18T00:00:00+00:00'
 slug: accessing-nvidia-gpu-info-from-python
-categories: []
+categories:
+- machine-learning
 tags:
 - nvidia
 - nvml

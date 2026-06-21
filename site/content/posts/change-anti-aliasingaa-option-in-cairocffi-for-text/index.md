@@ -3,7 +3,8 @@ title: change anti-aliasing(AA) option in cairocffi for text
 date: '2018-11-15T00:00:00+00:00'
 lastmod: '2018-11-15T00:00:00+00:00'
 slug: change-anti-aliasingaa-option-in-cairocffi-for-text
-categories: []
+categories:
+- python
 tags:
 - aa
 - anti-aliasing

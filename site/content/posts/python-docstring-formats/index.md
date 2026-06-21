@@ -3,7 +3,8 @@ title: python docstring formats
 date: '2019-04-01T00:00:00+00:00'
 lastmod: '2019-04-01T00:00:00+00:00'
 slug: python-docstring-formats
-categories: []
+categories:
+- python
 tags: []
 draft: false
 ---

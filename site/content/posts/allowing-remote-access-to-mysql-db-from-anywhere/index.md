@@ -3,7 +3,8 @@ title: allowing remote access to mysql db from anywhere
 date: '2019-05-02T00:00:00+00:00'
 lastmod: '2019-05-02T00:00:00+00:00'
 slug: allowing-remote-access-to-mysql-db-from-anywhere
-categories: []
+categories:
+- database
 tags:
 - mysql
 - remote-access

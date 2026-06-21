@@ -3,7 +3,8 @@ title: calculating gradient for selected tensors in pytorch
 date: '2020-07-13T00:00:00+00:00'
 lastmod: '2020-07-13T00:00:00+00:00'
 slug: calculating-gradient-for-selected-tensors-in-pytorch
-categories: []
+categories:
+- machine-learning
 tags:
 - select-gradient-calculation
 draft: false

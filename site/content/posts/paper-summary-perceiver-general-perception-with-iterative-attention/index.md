@@ -3,7 +3,8 @@ title: 'Paper summary: “Perceiver : General Perception with Iterative Attentio
 date: '2021-09-09T00:00:00+00:00'
 lastmod: '2021-09-09T00:00:00+00:00'
 slug: paper-summary-perceiver-general-perception-with-iterative-attention
-categories: []
+categories:
+- paper-review
 tags:
 - perceiver
 draft: false

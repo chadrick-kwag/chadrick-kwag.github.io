@@ -3,7 +3,8 @@ title: applying xavier normal initialization to conv/linear layer(module) in pyt
 date: '2020-04-06T00:00:00+00:00'
 lastmod: '2020-04-06T00:00:00+00:00'
 slug: applying-xavier-normal-initialization-to-conv-linear-layermodule-in-pytorch
-categories: []
+categories:
+- machine-learning
 tags:
 - glorot-initialization
 - initialization

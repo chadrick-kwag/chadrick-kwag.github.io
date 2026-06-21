@@ -3,7 +3,8 @@ title: list of python double underscores
 date: '2021-10-14T00:00:00+00:00'
 lastmod: '2021-10-14T00:00:00+00:00'
 slug: list-of-python-double-underscores
-categories: []
+categories:
+- python
 tags: []
 draft: false
 ---

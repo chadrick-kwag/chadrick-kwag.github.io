@@ -4,7 +4,8 @@ title: updating php version from 7.2 to 7.4 for wordpress and solving mysql exte
 date: '2021-06-28T00:00:00+00:00'
 lastmod: '2021-06-28T00:00:00+00:00'
 slug: updating-php-version-from-7-2-to-7-4-for-wordpress-and-solving-mysql-extension-error
-categories: []
+categories:
+- web
 tags:
 - error
 - mysql-extension

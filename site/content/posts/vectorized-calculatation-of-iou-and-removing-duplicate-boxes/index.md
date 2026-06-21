@@ -4,7 +4,8 @@ title: calculating IOU in a vectorized manner and fetching index pairs that are 
 date: '2019-01-25T00:00:00+00:00'
 lastmod: '2019-01-25T00:00:00+00:00'
 slug: vectorized-calculatation-of-iou-and-removing-duplicate-boxes
-categories: []
+categories:
+- machine-learning
 tags:
 - iou
 - numpy

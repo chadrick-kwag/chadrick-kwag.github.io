@@ -3,7 +3,8 @@ title: None index in python list?
 date: '2020-12-12T00:00:00+00:00'
 lastmod: '2020-12-12T00:00:00+00:00'
 slug: none-index-in-python-list
-categories: []
+categories:
+- python
 tags:
 - indexing-none
 - none-index
