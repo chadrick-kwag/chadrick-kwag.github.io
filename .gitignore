@@ -6,6 +6,7 @@ Thumbs.db
 backup/
 manifests/
 reports/
+docs/
 temp/
 site/public/
 site/.hugo_build.lock
