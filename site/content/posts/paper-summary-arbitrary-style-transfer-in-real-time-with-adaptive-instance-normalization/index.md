@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper summary: "Arbitrary Style Transfer in Real-time with Adaptive Instance
   Normalization"'
 date: '2021-05-04T00:00:00+00:00'
@@ -7,8 +9,11 @@ slug: paper-summary-arbitrary-style-transfer-in-real-time-with-adaptive-instance
 categories:
 - paper-review
 tags:
-- adain
-- style-transfer
+- "apt"
+- "adain"
+- "style-transfer"
+- "arbitrary"
+- "style"
 draft: false
 ---
 arxiv: <https://arxiv.org/pdf/1703.06868.pdf>

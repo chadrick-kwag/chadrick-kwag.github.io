@@ -1,4 +1,6 @@
 ---
+
+
 title: loading multiple tensorflow 1.x models at once
 date: '2021-04-19T00:00:00+00:00'
 lastmod: '2021-04-19T00:00:00+00:00'
@@ -6,8 +8,8 @@ slug: loading-multiple-tensorflow-1-x-models-at-once
 categories:
 - machine-learning
 tags:
-- load-multiple-model
-- tensorflow
+- "tensorflow"
+- "model-loading"
 draft: false
 ---
 Loading multiple tensorflow models at once in tf1.x causes problems because the operations in each model may have same name, and thus cause collision. While this can be avoided by manually giving unique names to tensors when developing a model, this is a cumbersome strategy.

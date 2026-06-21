@@ -1,4 +1,6 @@
 ---
+
+
 title: serving static files in subpath of domain in django
 date: '2020-04-06T00:00:00+00:00'
 lastmod: '2020-04-06T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: serving-static-files-in-subpath-of-domain
 categories:
 - web
 tags:
-- django
-- static-file
-- subdomain
-- subpath
+- "django"
+- "static-file"
+- "subdomain"
+- "subpath"
+- "serving"
 draft: false
 ---
 # Problem

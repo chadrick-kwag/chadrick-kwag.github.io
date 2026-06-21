@@ -1,4 +1,6 @@
 ---
+
+
 title: making updated permalink work in wordpress with nginx
 date: '2019-05-07T00:00:00+00:00'
 lastmod: '2019-05-07T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: making-updated-permalink-work-in-wordpress-with-nginx
 categories:
 - web
 tags:
-- nginx
-- not-working
-- permalink
-- wordpress
+- "wordpress"
+- "nginx"
+- "not-working"
+- "permalink"
+- "updated"
 draft: false
 ---
 After I changed my permalink type to use postname and applied the changes, accessing posts gave me a 404 while the wordpress site was running perfectly fine.

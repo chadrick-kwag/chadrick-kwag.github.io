@@ -1,4 +1,6 @@
 ---
+
+
 title: updating php version from 7.2 to 7.4 for wordpress and solving mysql extension
   error
 date: '2021-06-28T00:00:00+00:00'
@@ -7,11 +9,11 @@ slug: updating-php-version-from-7-2-to-7-4-for-wordpress-and-solving-mysql-exten
 categories:
 - web
 tags:
-- error
-- mysql-extension
-- php-7-4
-- php-version-update
-- wordpress
+- "mysql"
+- "wordpress"
+- "mysql-extension"
+- "php-7-4"
+- "php-version-update"
 draft: false
 ---
 I am running my wordpress in aws and recently my wordpress dashboard was giving my warnings to update php version from 7.2 to 7.4 for security.

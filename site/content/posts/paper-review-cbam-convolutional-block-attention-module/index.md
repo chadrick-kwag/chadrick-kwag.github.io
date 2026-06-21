@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "CBAM: Convolutional Block Attention Module"'
 date: '2021-01-03T00:00:00+00:00'
 lastmod: '2021-01-03T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: paper-review-cbam-convolutional-block-attention-module
 categories:
 - paper-review
 tags:
-- cbam
-- channel-attention-module
-- convolutional-block-attention
-- sam
-- spatial-attention-module
+- "cbam"
+- "channel-attention-module"
+- "convolutional-block-attention"
+- "sam"
+- "spatial-attention-module"
 draft: false
 ---
 arxiv: <https://arxiv.org/pdf/1807.06521.pdf>

@@ -1,4 +1,6 @@
 ---
+
+
 title: webpack dev server live reloading not working fix
 date: '2020-03-01T00:00:00+00:00'
 lastmod: '2020-03-01T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: webpack-dev-server-live-reloading-not-working-fix
 categories:
 - web
 tags:
-- hot-reload
-- webpack-dev-server-hot-reload
-- webpack-dev-server-not-working
+- "webpack"
+- "hot-reload"
+- "webpack-dev-server-hot-reload"
+- "webpack-dev-server-not-working"
+- "dev"
 draft: false
 ---
 There are numerous solutions out there on google, but none seemed to work. [This post](https://medium.com/code-oil/burning-questions-with-answers-to-why-webpack-dev-server-live-reload-does-not-work-6d6390277920) greatly helped me understand differences among confusing concepts such as `publicPath`, `live reload`, `hot module replacement(HMR)`, `watchContentBase`, etc. However even this informative post didn’t solve my simple react + webpack setup. I think the informative post is worth looking into but small modifications to its explanations must be made.

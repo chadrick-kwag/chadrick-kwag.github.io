@@ -1,4 +1,6 @@
 ---
+
+
 title: restart rmate when stuck
 date: '2018-12-03T00:00:00+00:00'
 lastmod: '2018-12-03T00:00:00+00:00'
@@ -6,7 +8,9 @@ slug: restart-rmate-when-stuck
 categories:
 - linux
 tags:
-- rmate
+- "rmate"
+- "restart"
+- "stuck"
 draft: false
 ---
 sometimes rmate setup in a remote server may not work. Causes could be numerous: simply you left it open too long and the server somehow showed erraneous behavior, or you had to abruptly shutdown your ssh connection in a forceful manner.

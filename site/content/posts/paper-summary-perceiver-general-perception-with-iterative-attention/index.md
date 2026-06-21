@@ -1,4 +1,6 @@
 ---
+
+
 title: 'Paper summary: “Perceiver : General Perception with Iterative Attention”'
 date: '2021-09-09T00:00:00+00:00'
 lastmod: '2021-09-09T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: paper-summary-perceiver-general-perception-with-iterative-attention
 categories:
 - paper-review
 tags:
-- perceiver
+- "perceiver"
+- "general"
+- "perception"
+- "iterative"
+- "attention"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2103.03206>

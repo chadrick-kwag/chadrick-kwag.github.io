@@ -1,11 +1,15 @@
 ---
+
+
 title: dddd
 date: '2019-06-17T00:00:00+00:00'
 lastmod: '2019-06-17T00:00:00+00:00'
 slug: dddd
 categories:
 - machine-learning
-tags: []
+tags:
+- "dummy-post"
+- "placeholder"
 draft: false
 ---
 ```python

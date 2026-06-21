@@ -1,4 +1,6 @@
 ---
+
+
 title: Focal Loss (a.k.a RetinaNet) paper review
 date: '2018-11-18T00:00:00+00:00'
 lastmod: '2018-11-18T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: focal-loss-a-k-a-retinanet-paper-review
 categories:
 - paper-review
 tags:
-- focal-loss
-- object-detection
-- retinanet
+- "focal-loss"
+- "object-detection"
+- "retinanet"
+- "focal"
+- "loss-function"
 draft: false
 ---
 I have heard so much about `Retinanet` in the realm of object detection and recently I had the chance to read the paper. Surprisingly, the paper is titled with “focal loss” and not “RetinaNet”. The most important lesson that I learned here was that it was the “focal loss” that was the key idea and not RetinaNet. Here are key points that I would like to summarize.

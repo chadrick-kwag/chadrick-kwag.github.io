@@ -1,4 +1,6 @@
 ---
+
+
 title: mountaincar RL tips
 date: '2020-01-03T00:00:00+00:00'
 lastmod: '2020-01-03T00:00:00+00:00'
@@ -6,8 +8,9 @@ slug: mountaincar-rl-tips
 categories:
 - machine-learning
 tags:
-- mountaincar
-- reinforcement-learning
+- "mountaincar"
+- "reinforcement-learning"
+- "rl"
 draft: false
 ---
 when adding samples, I modified the reference code to exclude  

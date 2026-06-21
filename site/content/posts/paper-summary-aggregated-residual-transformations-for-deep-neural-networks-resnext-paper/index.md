@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper summary: "Aggregated Residual Transformations for Deep Neural Networks"
   (ResNext Paper)'
 date: '2021-03-29T00:00:00+00:00'
@@ -7,10 +9,11 @@ slug: paper-summary-aggregated-residual-transformations-for-deep-neural-networks
 categories:
 - paper-review
 tags:
-- paper-review
-- paper-summary
-- resnet
-- resnext
+- "resnet"
+- "resnext"
+- "aggregated"
+- "residual"
+- "transformations"
 draft: false
 ---
 # key point

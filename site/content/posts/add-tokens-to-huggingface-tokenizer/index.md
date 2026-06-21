@@ -1,4 +1,6 @@
 ---
+
+
 title: add tokens to huggingface tokenizer
 date: '2022-06-02T00:00:00+00:00'
 lastmod: '2022-06-02T00:00:00+00:00'
@@ -6,9 +8,9 @@ slug: add-tokens-to-huggingface-tokenizer
 categories:
 - machine-learning
 tags:
-- huggingface
-- tokenizer
-- tokens
+- "huggingface"
+- "tokenizer"
+- "tokens"
 draft: false
 ---
 Here’s a sample code of how to load huggingface tokenizer, add some custom tokens and save it.

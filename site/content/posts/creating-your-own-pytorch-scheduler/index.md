@@ -1,11 +1,16 @@
 ---
+
+
 title: creating your own pytorch scheduler
 date: '2022-05-12T00:00:00+00:00'
 lastmod: '2022-05-12T00:00:00+00:00'
 slug: creating-your-own-pytorch-scheduler
 categories:
 - machine-learning
-tags: []
+tags:
+- "pytorch"
+- "learning-rate-scheduler"
+- "scheduler"
 draft: false
 ---
 here is an example of a scheduler that I subclassed in pytorch.

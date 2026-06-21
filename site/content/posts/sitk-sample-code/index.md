@@ -1,4 +1,6 @@
 ---
+
+
 title: sitk sample code
 date: '2018-12-12T00:00:00+00:00'
 lastmod: '2018-12-12T00:00:00+00:00'
@@ -6,7 +8,9 @@ slug: sitk-sample-code
 categories:
 - machine-learning
 tags:
-- sitk
+- "sitk"
+- "sample"
+- "code"
 draft: false
 ---
 ```python

@@ -1,4 +1,6 @@
 ---
+
+
 title: finding out package and versions in apt
 date: '2020-08-06T00:00:00+00:00'
 lastmod: '2020-08-06T00:00:00+00:00'
@@ -6,9 +8,10 @@ slug: finding-out-package-and-versions-in-apt
 categories:
 - linux
 tags:
-- apt
-- package
-- version
+- "apt"
+- "package"
+- "version"
+- "versions"
 draft: false
 ---
 search available packages with keyword

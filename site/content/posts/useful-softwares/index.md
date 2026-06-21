@@ -1,4 +1,6 @@
 ---
+
+
 title: useful softwares
 date: '2018-11-29T00:00:00+00:00'
 lastmod: '2018-11-29T00:00:00+00:00'
@@ -6,8 +8,9 @@ slug: useful-softwares
 categories:
 - tools
 tags:
-- tips
-- useful-opensource
+- "useful-opensource"
+- "useful"
+- "softwares"
 draft: false
 ---
 ## diary/journal

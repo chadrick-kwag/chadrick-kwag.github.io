@@ -1,4 +1,6 @@
 ---
+
+
 title: how to manually change weight/bias in torch module
 date: '2020-04-03T00:00:00+00:00'
 lastmod: '2020-04-03T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: how-to-manually-change-weight-bias-in-torch-module
 categories:
 - machine-learning
 tags:
-- change-bias
-- change-weight
-- lstm-bias
-- torch
+- "change-bias"
+- "change-weight"
+- "lstm-bias"
+- "pytorch"
+- "manually"
 draft: false
 ---
 ## Problem

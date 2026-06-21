@@ -1,4 +1,6 @@
 ---
+
+
 title: '"Stacked Hourglass Networks for Human Pose Estimation" paper review'
 date: '2020-09-14T00:00:00+00:00'
 lastmod: '2020-09-14T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: stacked-hourglass-networks-for-human-pose-estimation-paper-review
 categories:
 - paper-review
 tags:
-- hourglass
-- segmentation
-- stacked-hourglass
+- "hourglass"
+- "segmentation"
+- "stacked-hourglass"
+- "stacked"
+- "networks"
 draft: false
 ---
 paper [link](https://arxiv.org/pdf/1603.06937.pdf)

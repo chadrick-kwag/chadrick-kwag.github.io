@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: Intriguing properties of neural networks (getting adversarial
   samples using L-BGFS method)'
 date: '2019-12-08T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: paper-review-intriguing-properties-of-neural-networks
 categories:
 - paper-review
 tags:
-- adversarial-example
-- adversarial-sample
-- l-bgfs
+- "adversarial-example"
+- "adversarial-sample"
+- "l-bgfs"
+- "adversarial-attack"
+- "intriguing"
 draft: false
 ---
 paper link: <https://arxiv.org/pdf/1312.6199.pdf>

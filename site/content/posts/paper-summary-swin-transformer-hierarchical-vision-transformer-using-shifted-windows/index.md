@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper summary: Swin Transformer: Hierarchical Vision Transformer using Shifted
   Windows'
 date: '2021-09-27T00:00:00+00:00'
@@ -7,7 +9,11 @@ slug: paper-summary-swin-transformer-hierarchical-vision-transformer-using-shift
 categories:
 - paper-review
 tags:
-- swin-transformer
+- "swin-transformer"
+- "swin"
+- "transformer"
+- "hierarchical"
+- "vision"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2103.14030>

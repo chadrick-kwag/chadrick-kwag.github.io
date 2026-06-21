@@ -1,4 +1,6 @@
 ---
+
+
 title: scatter plot opaque dots in a vertical line for one category
 date: '2018-11-28T00:00:00+00:00'
 lastmod: '2018-11-28T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: scatter-plot-opaque-dots-in-a-vertical-line-for-one-category
 categories:
 - python
 tags:
-- matplotlib
+- "matplotlib"
+- "scatter"
+- "plot"
+- "opaque"
+- "dots"
 draft: false
 ---
 ```python

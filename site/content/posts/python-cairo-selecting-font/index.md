@@ -1,4 +1,6 @@
 ---
+
+
 title: python cairo selecting font
 date: '2019-03-12T00:00:00+00:00'
 lastmod: '2019-03-12T00:00:00+00:00'
@@ -6,8 +8,9 @@ slug: python-cairo-selecting-font
 categories:
 - python
 tags:
-- cairo
-- font
+- "cairo"
+- "font"
+- "selecting"
 draft: false
 ---
 Here is how to select the font in cairo in python.

@@ -1,4 +1,6 @@
 ---
+
+
 title: 'webpack dev server run error "Error: spawn chrome ENOENT"'
 date: '2020-03-08T00:00:00+00:00'
 lastmod: '2020-03-08T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: webpack-dev-server-run-error-error-spawn-chrome-enoent
 categories:
 - web
 tags:
-- webpack-dev-server-chrome-enoent
-- webpack-dev-server-error
+- "webpack"
+- "webpack-dev-server-chrome-enoent"
+- "webpack-dev-server-error"
+- "dev"
+- "server"
 draft: false
 ---
 # Problem

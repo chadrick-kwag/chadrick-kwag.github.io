@@ -1,4 +1,6 @@
 ---
+
+
 title: python timestamp snippet
 date: '2018-11-13T00:00:00+00:00'
 lastmod: '2018-11-13T00:00:00+00:00'
@@ -6,8 +8,8 @@ slug: python-timestamp-snippet
 categories:
 - python
 tags:
-- python
-- timestamp
+- "timestamp"
+- "snippet"
 draft: false
 ---
 ```

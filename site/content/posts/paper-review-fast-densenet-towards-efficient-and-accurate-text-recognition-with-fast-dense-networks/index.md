@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "Fast DenseNet: Towards Efficient and Accurate Text Recognition
   with Fast Dense Networks"'
 date: '2020-06-16T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: paper-review-fast-densenet-towards-efficient-and-accurate-text-recognition
 categories:
 - paper-review
 tags:
-- fast-densenet
-- fdensenet-u
-- paper-review
+- "fast-densenet"
+- "fdensenet-u"
+- "fast"
+- "densenet"
+- "efficient"
 draft: false
 ---
 <https://arxiv.org/ftp/arxiv/papers/1912/1912.07016.pdf>

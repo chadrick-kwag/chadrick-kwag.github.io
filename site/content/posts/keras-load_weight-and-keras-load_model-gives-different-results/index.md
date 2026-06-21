@@ -1,4 +1,6 @@
 ---
+
+
 title: '`keras.load_weight` and `keras.load_model` gives different results'
 date: '2019-10-29T00:00:00+00:00'
 lastmod: '2019-10-29T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: keras-load_weight-and-keras-load_model-gives-different-results
 categories:
 - machine-learning
 tags:
-- load_model
-- tensorflow
+- "load-model"
+- "tensorflow"
+- "load"
+- "weight"
+- "model"
 draft: false
 ---
 There can be several ways to load a model from ckpt file and run inference.

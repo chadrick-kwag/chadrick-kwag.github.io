@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper summary: "DocFormer: End-to-End Transformer for Document Understanding"'
 date: '2021-11-23T00:00:00+00:00'
 lastmod: '2021-11-23T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: paper-summary-docformer
 categories:
 - paper-review
 tags:
-- docformer
-- document-understanding
-- kie
-- paper-review
+- "docformer"
+- "document-understanding"
+- "kie"
+- "end"
+- "transformer"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2106.11539>

@@ -1,4 +1,6 @@
 ---
+
+
 title: easy fix for bash script file unexpected end of file error
 date: '2019-05-24T00:00:00+00:00'
 lastmod: '2019-05-24T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: easy-fix-for-bash-script-file-unexpected-end-of-file-error
 categories:
 - linux
 tags:
-- bash
-- unexpected-end-of-file
+- "bash"
+- "unexpected-end-of-file"
+- "file"
+- "unexpected"
+- "end"
 draft: false
 ---
 open with vi, and execute `:set fileformat=unix` and save the file.

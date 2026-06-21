@@ -1,4 +1,6 @@
 ---
+
+
 title: EfficientDet paper review
 date: '2020-06-06T00:00:00+00:00'
 lastmod: '2020-06-06T00:00:00+00:00'
@@ -6,8 +8,8 @@ slug: efficientdet-paper-review
 categories:
 - paper-review
 tags:
-- efficientdet
-- paper-review
+- "efficientdet"
+- "object-detection"
 draft: false
 ---
 paper link: <https://arxiv.org/pdf/1911.09070.pdf>

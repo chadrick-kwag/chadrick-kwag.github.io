@@ -1,4 +1,6 @@
 ---
+
+
 title: adding pip config file in virtualenv
 date: '2021-04-20T00:00:00+00:00'
 lastmod: '2021-04-20T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: adding-pip-config-file-in-virtualenv
 categories:
 - python
 tags:
-- pip-conf
-- proxy
-- virutalenv
+- "pip-conf"
+- "proxy"
+- "virutalenv"
+- "pip"
+- "file"
 draft: false
 ---
 after creating a virtualenv, one can setup `pip.conf` file right inside the created virtualenv directory. Here’s an example

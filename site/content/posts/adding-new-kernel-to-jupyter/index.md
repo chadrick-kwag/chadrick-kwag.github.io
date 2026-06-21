@@ -1,11 +1,15 @@
 ---
+
+
 title: adding new kernel to jupyter
 date: '2023-10-20T00:00:00+00:00'
 lastmod: '2023-10-20T00:00:00+00:00'
 slug: adding-new-kernel-to-jupyter
 categories:
 - python
-tags: []
+tags:
+- "jupyter"
+- "kernel"
 draft: false
 ---
 create a virutalenv and activate it.

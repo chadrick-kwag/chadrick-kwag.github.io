@@ -1,4 +1,6 @@
 ---
+
+
 title: 'error fix: pycuda "ImportError: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.21''
   not found"'
 date: '2021-11-19T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: error-fix-pycuda-importerror-lib64-libstdc-so-6-version-glibcxx_3-4-21-not
 categories:
 - machine-learning
 tags:
-- importerror
-- libstdc
-- pycuda
+- "cuda"
+- "importerror"
+- "libstdc"
+- "pycuda"
+- "lib64"
 draft: false
 ---
 ## Background

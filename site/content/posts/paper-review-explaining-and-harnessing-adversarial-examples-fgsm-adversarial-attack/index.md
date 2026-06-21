@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: Explaining and Harnessing Adversarial Examples (FGSM adversarial
   attack)'
 date: '2019-12-11T00:00:00+00:00'
@@ -7,10 +9,11 @@ slug: paper-review-explaining-and-harnessing-adversarial-examples-fgsm-adversari
 categories:
 - paper-review
 tags:
-- adversarial-example
-- adversarial-fgsm
-- adversarial-sample
-- fgsm
+- "adversarial-attack"
+- "fgsm"
+- "deep-learning"
+- "explaining"
+- "harnessing"
 draft: false
 ---
 paper link: <https://arxiv.org/abs/1412.6572>

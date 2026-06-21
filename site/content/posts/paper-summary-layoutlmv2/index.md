@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "LayoutLMV2: Multi-Modal Pre-training for Visually-Rich Document
   Understanding"'
 date: '2021-11-19T00:00:00+00:00'
@@ -7,11 +9,11 @@ slug: paper-summary-layoutlmv2
 categories:
 - paper-review
 tags:
-- document-understanding
-- kie
-- layoutlm
-- layoutlmv2
-- paper-review
+- "document-understanding"
+- "kie"
+- "layoutlm"
+- "layoutlmv2"
+- "multi"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2012.14740>

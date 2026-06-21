@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "Generative Teaching Networks: Accelerating Neural Architecture
   Search by Learning to Generate Synthetic Training Data"'
 date: '2021-03-07T00:00:00+00:00'
@@ -7,8 +9,11 @@ slug: paper-review-generative-teaching-networks-accelerating-neural-architecture
 categories:
 - paper-review
 tags:
-- generative-teaching-networks
-- gtn
+- "generative-teaching-networks"
+- "gtn"
+- "generative"
+- "teaching"
+- "networks"
 draft: false
 ---
 <https://arxiv.org/abs/1912.07768>

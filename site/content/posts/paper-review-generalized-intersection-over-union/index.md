@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: Generalized Intersection over Union'
 date: '2020-12-03T00:00:00+00:00'
 lastmod: '2020-12-03T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: paper-review-generalized-intersection-over-union
 categories:
 - paper-review
 tags:
-- generalized-iou
-- giou
-- paper-review
+- "generalized-iou"
+- "giou"
+- "generalized"
+- "intersection"
+- "union"
 draft: false
 ---
 arxiv link: <https://arxiv.org/abs/1902.09630>

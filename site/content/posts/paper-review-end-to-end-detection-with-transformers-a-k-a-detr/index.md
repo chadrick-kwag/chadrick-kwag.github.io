@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: End-to-End Detection with Transformers (a.k.a DETR)'
 date: '2020-12-01T00:00:00+00:00'
 lastmod: '2020-12-01T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: paper-review-end-to-end-detection-with-transformers-a-k-a-detr
 categories:
 - paper-review
 tags:
-- detr
-- paper-review
+- "detr"
+- "end"
+- "detection"
+- "transformers"
+- "k"
 draft: false
 ---
 [arxiv link](https://arxiv.org/pdf/2005.12872.pdf)

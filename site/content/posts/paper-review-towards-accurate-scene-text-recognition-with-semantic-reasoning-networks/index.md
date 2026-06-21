@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: Towards Accurate Scene Text Recognition with Semantic Reasoning
   Networks'
 date: '2020-12-30T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: paper-review-towards-accurate-scene-text-recognition-with-semantic-reasoni
 categories:
 - paper-review
 tags:
-- paper-review
-- semantic-reasoning-network
-- srn
+- "semantic-reasoning-network"
+- "srn"
+- "accurate"
+- "scene"
+- "text"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2003.12294>

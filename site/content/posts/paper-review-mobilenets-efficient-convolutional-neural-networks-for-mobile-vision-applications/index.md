@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "MobileNets: Efficient Convolutional Neural Networks for Mobile
   Vision Applications"'
 date: '2020-12-19T00:00:00+00:00'
@@ -7,7 +9,11 @@ slug: paper-review-mobilenets-efficient-convolutional-neural-networks-for-mobile
 categories:
 - paper-review
 tags:
-- mobilenet
+- "mobilenet"
+- "mobilenets"
+- "efficient"
+- "convolutional"
+- "neural"
 draft: false
 ---
 arxiv: <https://arxiv.org/pdf/1704.04861.pdf>

@@ -1,4 +1,6 @@
 ---
+
+
 title: json dumping(serializing) custom python classes
 date: '2019-07-05T00:00:00+00:00'
 lastmod: '2019-07-05T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: json-dumpingserializing-custom-python-classes
 categories:
 - python
 tags:
-- class
-- custom-class
-- json
-- serialization
-- serialize
+- "class"
+- "custom-class"
+- "json"
+- "serialization"
+- "serialize"
 draft: false
 ---
 One of the greatest features of Python is that native types are naturally JSON serializable which makes it exporting/importing json files so easy and convenient without any hassle.

@@ -1,4 +1,6 @@
 ---
+
+
 title: None index in python list?
 date: '2020-12-12T00:00:00+00:00'
 lastmod: '2020-12-12T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: none-index-in-python-list
 categories:
 - python
 tags:
-- indexing-none
-- none-index
-- python
+- "indexing-none"
+- "none-index"
+- "none"
+- "index"
+- "list"
 draft: false
 ---
 while looking through some deep learning implementation code, I found some strange list indexing in python code. Here is an example.

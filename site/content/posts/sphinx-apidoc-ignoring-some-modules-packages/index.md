@@ -1,4 +1,6 @@
 ---
+
+
 title: sphinx-apidoc ignoring some modules/packages
 date: '2019-02-01T00:00:00+00:00'
 lastmod: '2019-02-01T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: sphinx-apidoc-ignoring-some-modules-packages
 categories:
 - tools
 tags:
-- sphinx
+- "sphinx"
+- "apidoc"
+- "ignoring"
+- "modules"
+- "packages"
 draft: false
 ---
 While working with the awesome documentation tool Sphinx, I ran into a situation where I could not seem to make `sphinx-apidoc` to recognize modules under a subdirectory of my project. I triple checked my command but it was fine. The same command worked properly in my other project where it located all the files under a package and created documents for them all. However, this time it seemed to be refusing to recognize and create documents for only a few subdirectories(packages). I found it hard understand what could possibly cause this bizarre behavior all of a sudden.

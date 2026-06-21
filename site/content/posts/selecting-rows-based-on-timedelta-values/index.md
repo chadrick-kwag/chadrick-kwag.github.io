@@ -1,4 +1,6 @@
 ---
+
+
 title: selecting rows based on timedelta values
 date: '2019-05-05T00:00:00+00:00'
 lastmod: '2019-05-05T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: selecting-rows-based-on-timedelta-values
 categories:
 - python
 tags:
-- pandas
-- timedelta
+- "pandas"
+- "timedelta"
+- "selecting"
+- "rows"
+- "values"
 draft: false
 ---
 Assume we have a series that contains time difference values.

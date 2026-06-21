@@ -1,11 +1,16 @@
 ---
+
+
 title: how to add pagefind in hugo
 date: '2023-10-27T12:31:00+00:00'
 lastmod: '2023-10-27T12:31:00+00:00'
 slug: how-to-add-pagefind-in-hugo
 categories:
 - web
-tags: []
+tags:
+- "hugo"
+- "pagefind"
+- "search"
 draft: false
 ---
 **PageFind** is a great library for implementing search feature in hugo. It creates a search index based on the the html files created by hugo build and allows this search index to be used in a separate search page prepared by the user. Besides that, it provides a nice UI search box from the start so unless I want to customize the css, I can just use the provided default one and it still looks good.

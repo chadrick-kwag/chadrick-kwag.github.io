@@ -1,4 +1,6 @@
 ---
+
+
 title: 'headless chrome driver: puppeteer'
 date: '2020-03-04T00:00:00+00:00'
 lastmod: '2020-03-04T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: headless-chrome-driver-puppeteer
 categories:
 - web
 tags:
-- chromium
-- headless-chrome
-- puppeteer
+- "chromium"
+- "headless-chrome"
+- "puppeteer"
+- "headless"
+- "chrome"
 draft: false
 ---
 this is a npm package which allows to launch a chromium process headlessly and allowing powerful control over it. It is reallly useful for taking screenshots since this can capture the entire page(not just the visible portion). And it can do more than just take screenshots because the package is actually launching a fullsize chromium process which is just like a normal browser.

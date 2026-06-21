@@ -1,4 +1,6 @@
 ---
+
+
 title: '"ValueError: numpy.ndarray size changed, may indicate binary incompatibility."
   error fix'
 date: '2021-07-21T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: valueerror-numpy-ndarray-size-changed-may-indicate-binary-incompatibility-
 categories:
 - python
 tags:
-- binary-incompatibility
-- pycocotools
-- python
+- "binary-incompatibility"
+- "pycocotools"
+- "valueerror"
+- "numpy"
+- "ndarray"
 draft: false
 ---
 After installing packages with python and running a torch training script, I encountered the following error.

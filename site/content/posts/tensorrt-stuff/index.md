@@ -1,4 +1,6 @@
 ---
+
+
 title: tensorRT stuff
 date: '2019-03-18T00:00:00+00:00'
 lastmod: '2019-03-18T00:00:00+00:00'
@@ -6,7 +8,8 @@ slug: tensorrt-stuff
 categories:
 - machine-learning
 tags:
-- tensorrt
+- "tensorrt"
+- "stuff"
 draft: false
 ---
 tensorRT support matrix: <https://docs.nvidia.com/deeplearning/dgx/integrate-tf-trt/index.html#matrix>

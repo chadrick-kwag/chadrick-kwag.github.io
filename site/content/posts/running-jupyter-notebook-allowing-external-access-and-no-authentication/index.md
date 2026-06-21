@@ -1,4 +1,6 @@
 ---
+
+
 title: running jupyter notebook allowing external access and no authentication
 date: '2019-05-08T00:00:00+00:00'
 lastmod: '2019-05-08T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: running-jupyter-notebook-allowing-external-access-and-no-authentication
 categories:
 - python
 tags:
-- jupyter
-- remote-access
+- "jupyter"
+- "remote-access"
+- "notebook"
+- "external"
+- "access"
 draft: false
 ---
 ```generic

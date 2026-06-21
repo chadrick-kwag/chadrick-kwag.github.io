@@ -1,4 +1,6 @@
 ---
+
+
 title: Properly setting dataloader and callback for validation in pytorch DDP
 date: '2022-07-05T00:00:00+00:00'
 lastmod: '2022-07-05T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: properly-setting-dataloader-and-callback-for-validation-in-pytorch-ddp
 categories:
 - machine-learning
 tags:
-- callback
-- dataloader
-- ddp
-- pytorch
-- validation
+- "pytorch"
+- "callback"
+- "dataloader"
+- "ddp"
+- "validation"
 draft: false
 ---
 pytorch distributed data parallel(DDP) is very useful and relatively well provided for creating a distributed training setup. However, the provided documentations and tutorial are mostly about “training” part and didn’t talk much about validation callbacks that run during training.

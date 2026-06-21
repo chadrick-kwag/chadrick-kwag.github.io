@@ -1,4 +1,6 @@
 ---
+
+
 title: tensorflow manual cross entropy loss calculation
 date: '2020-06-12T00:00:00+00:00'
 lastmod: '2020-06-12T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: tensorflow-manual-cross-entropy-loss-calculation
 categories:
 - machine-learning
 tags:
-- cross-entropy-loss
+- "cross-entropy-loss"
+- "tensorflow"
+- "manual"
+- "cross"
+- "entropy"
 draft: false
 ---
 In case you need a raw cross entropy loss calculation done not with logits but with the final value, and no reductions on the output whatsoever, here’s a code snippet for it.

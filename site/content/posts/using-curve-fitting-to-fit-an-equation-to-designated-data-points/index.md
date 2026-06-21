@@ -1,4 +1,6 @@
 ---
+
+
 title: Using curve fitting to fit an equation to designated data points
 date: '2020-02-18T00:00:00+00:00'
 lastmod: '2020-02-18T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: using-curve-fitting-to-fit-an-equation-to-designated-data-points
 categories:
 - python
 tags:
-- curve-fitting
-- curve_fit
-- scipy
+- "curve-fitting"
+- "curve-fit"
+- "scipy"
+- "curve"
+- "fitting"
 draft: false
 ---
 Assume a situation where you have the frame of an equation at ready but are struggling to fit that equation to some data points. In other words, if you are stuck in a situation where you need to fit the and equation or function to a set of data points, using `curve_fit` in scipy is very helpful.

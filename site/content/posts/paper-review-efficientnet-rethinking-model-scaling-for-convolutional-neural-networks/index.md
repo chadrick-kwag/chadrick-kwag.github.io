@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "EfficientNet: Rethinking Model Scaling for Convolutional Neural
   Networks"'
 date: '2021-03-12T00:00:00+00:00'
@@ -7,7 +9,11 @@ slug: paper-review-efficientnet-rethinking-model-scaling-for-convolutional-neura
 categories:
 - paper-review
 tags:
-- efficientnet
+- "efficientnet"
+- "rethinking"
+- "model"
+- "scaling"
+- "convolutional"
 draft: false
 ---
 arxiv: <https://arxiv.org/pdf/1905.11946.pdf>

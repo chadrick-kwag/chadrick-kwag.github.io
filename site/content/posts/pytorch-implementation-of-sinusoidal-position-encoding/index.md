@@ -1,4 +1,6 @@
 ---
+
+
 title: pytorch implementation of sinusoidal position encoding
 date: '2022-05-26T00:00:00+00:00'
 lastmod: '2022-05-26T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: pytorch-implementation-of-sinusoidal-position-encoding
 categories:
 - machine-learning
 tags:
-- implementation
-- position-encoding
-- pytorch
-- sinusoidal-position-encoding
+- "pytorch"
+- "position-encoding"
+- "sinusoidal-position-encoding"
+- "sinusoidal"
+- "position"
 draft: false
 ---
 There are existing sinusoidal position encoding modules out there, but the ones that I confronted were mostly assuming the position to be incrementing from 0 to the size of sequence. For example, when a token embedding sequence with shape of (B, L, D_token) is given then the sinusoidal position encoding module will take this tensor as input and manually create a tensor (B,L) where the values for each row is (0,1,2,3, …., L-1) and then apply sinusoidal encoding on this.

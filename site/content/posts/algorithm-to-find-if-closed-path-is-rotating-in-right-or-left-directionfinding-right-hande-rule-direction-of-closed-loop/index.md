@@ -1,4 +1,6 @@
 ---
+
+
 title: algorithm to find if closed path is rotating in right or left direction(finding
   right hande rule direction of closed loop)
 date: '2020-12-11T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: algorithm-to-find-if-closed-path-is-rotating-in-right-or-left-directionfin
 categories:
 - python
 tags:
-- algorithm
-- right-hand-rule
-- rotating-direction
+- "algorithm"
+- "right-hand-rule"
+- "rotating-direction"
+- "find"
+- "closed"
 draft: false
 ---
 A very simple mathmatical method exist to solve this problem.

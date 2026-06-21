@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "Donut : Document Understanding Transformer without OCR"'
 date: '2022-01-15T00:00:00+00:00'
 lastmod: '2022-01-15T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: paper-review-donut-document-understanding-transformer-without-ocr
 categories:
 - paper-review
 tags:
-- document-understanding
-- donut
-- paper-review
+- "document-understanding"
+- "donut"
+- "document"
+- "understanding"
+- "transformer"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2111.15664>

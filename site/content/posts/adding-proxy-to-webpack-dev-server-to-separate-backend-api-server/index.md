@@ -1,4 +1,6 @@
 ---
+
+
 title: adding proxy to webpack dev server to separate backend api server
 date: '2020-03-04T00:00:00+00:00'
 lastmod: '2020-03-04T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: adding-proxy-to-webpack-dev-server-to-separate-backend-api-server
 categories:
 - web
 tags:
-- webpack-dev-server
-- webpack-dev-server-data-api
-- webpack-dev-server-proxy
-- webpack-dev-server-react
+- "proxy"
+- "webpack"
+- "webpack-dev-server-data-api"
+- "webpack-dev-server-proxy"
+- "webpack-dev-server-react"
 draft: false
 ---
 webpack-dev-server is a wonderful tool when developing due to live reloading features when working on react projects. However, a complication arises when the user begins to add data serving apis.

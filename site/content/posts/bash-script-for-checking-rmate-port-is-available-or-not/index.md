@@ -1,4 +1,6 @@
 ---
+
+
 title: bash script for checking rmate port is available or not
 date: '2019-05-03T00:00:00+00:00'
 lastmod: '2019-05-03T00:00:00+00:00'
@@ -6,9 +8,10 @@ slug: bash-script-for-checking-rmate-port-is-available-or-not
 categories:
 - linux
 tags:
-- bash
-- port
-- rmate
+- "bash"
+- "port"
+- "rmate"
+- "available"
 draft: false
 ---
 ```generic

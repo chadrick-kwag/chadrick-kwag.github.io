@@ -1,11 +1,17 @@
 ---
+
+
 title: adding custom tf.keras metric
 date: '2019-04-30T00:00:00+00:00'
 lastmod: '2019-04-30T00:00:00+00:00'
 slug: adding-custom-tf-keras-metric
 categories:
 - machine-learning
-tags: []
+tags:
+- "custom"
+- "tensorflow"
+- "metric"
+- "keras"
 draft: false
 ---
 starting from tf 1.13 it looks like a native tf.keras precision metric exists. However for tf 1.10, it does not exist. So here is a custom created precision metric function that can be used for tf 1.10. I suppose this approach of creating custom metrics should work in other tf versions that do not have officially supported metrics.

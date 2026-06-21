@@ -1,4 +1,6 @@
 ---
+
+
 title: wget google drive large files bypassing virus check
 date: '2021-06-24T00:00:00+00:00'
 lastmod: '2021-06-24T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: wget-google-drive-large-files-bypassing-virus-check
 categories:
 - tools
 tags:
-- google-drive
-- virus-check
-- virus-ignore
-- wget
+- "google-drive"
+- "virus-check"
+- "virus-ignore"
+- "wget"
+- "google"
 draft: false
 ---
 I was stuck with directly downloading a large google drive file(dataset file) to my server which was headless and thus I was forced to use the terminal.

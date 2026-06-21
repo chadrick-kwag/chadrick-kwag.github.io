@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper summary “Perceiver IO: A General Architecture for Structured Inputs
   & Outputs”'
 date: '2021-09-27T00:00:00+00:00'
@@ -7,8 +9,11 @@ slug: paper-summary-perceiver-io-a-general-architecture-for-structured-inputs-ou
 categories:
 - paper-review
 tags:
-- perceiver
-- perceiver-io
+- "perceiver"
+- "perceiver-io"
+- "io"
+- "general"
+- "architecture"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2107.14795>

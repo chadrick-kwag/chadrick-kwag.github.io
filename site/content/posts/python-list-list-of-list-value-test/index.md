@@ -1,11 +1,15 @@
 ---
+
+
 title: python list, list of list value test
 date: '2019-04-09T00:00:00+00:00'
 lastmod: '2019-04-09T00:00:00+00:00'
 slug: python-list-list-of-list-value-test
 categories:
 - python
-tags: []
+tags:
+- "list"
+- "value"
 draft: false
 ---
 ```python

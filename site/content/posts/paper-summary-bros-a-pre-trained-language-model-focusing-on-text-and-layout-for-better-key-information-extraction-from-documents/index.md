@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper summary: "BROS: A Pre-trained Language Model Focusing on Text and Layout
   for Better Key Information Extraction from Documents"'
 date: '2021-11-10T00:00:00+00:00'
@@ -7,7 +9,11 @@ slug: paper-summary-bros-a-pre-trained-language-model-focusing-on-text-and-layou
 categories:
 - paper-review
 tags:
-- bros
+- "bros"
+- "pre"
+- "trained"
+- "language"
+- "model"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2108.04539>

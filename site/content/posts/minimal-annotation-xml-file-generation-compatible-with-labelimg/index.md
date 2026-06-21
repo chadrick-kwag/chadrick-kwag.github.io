@@ -1,4 +1,6 @@
 ---
+
+
 title: minimal annotation xml file generation compatible with labelimg
 date: '2021-04-22T00:00:00+00:00'
 lastmod: '2021-04-22T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: minimal-annotation-xml-file-generation-compatible-with-labelimg
 categories:
 - machine-learning
 tags:
-- convert-to-xml
-- labelimg
-- xml
+- "convert-to-xml"
+- "labelimg"
+- "xml"
+- "minimal"
+- "annotation"
 draft: false
 ---
 [LabelImg](https://github.com/tzutalin/labelImg) is a great and simple tool which can be used with easy when doing bounding box annotations. One downside that I feel with this tool is that it only supports two annotation formats: PascalVOC(xml) and YOLO. I have been using PascalVOC xml format which looks like this.

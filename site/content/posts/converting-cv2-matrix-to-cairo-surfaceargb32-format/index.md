@@ -1,4 +1,6 @@
 ---
+
+
 title: converting cv2 matrix to cairo surface(ARGB32 format)
 date: '2018-11-13T00:00:00+00:00'
 lastmod: '2018-11-13T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: converting-cv2-matrix-to-cairo-surfaceargb32-format
 categories:
 - machine-learning
 tags:
-- cairo
-- cairocffi
-- transparent-image-surface
+- "cairo"
+- "cairocffi"
+- "transparent-image-surface"
+- "opencv"
+- "matrix"
 draft: false
 ---
 In an [earlier post](/posts/converting-cv2-img-to-cairo-surface), converting an existing cv2 matrix to cairo surface using cairo. RGB format was demonstrated. However, sometimes the user wants to load a specific image as the background in a semi-transparent manner in the cairo surface, like the image below.

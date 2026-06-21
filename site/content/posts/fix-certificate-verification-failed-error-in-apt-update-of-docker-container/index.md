@@ -1,4 +1,6 @@
 ---
+
+
 title: fix "Certificate verification failed" error in apt update of docker container
 date: '2022-07-21T00:00:00+00:00'
 lastmod: '2022-07-21T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: fix-certificate-verification-failed-error-in-apt-update-of-docker-containe
 categories:
 - devops
 tags:
-- apt
-- certificate
+- "docker"
+- "apt"
+- "tls"
+- "certificates"
+- "proxy"
 draft: false
 ---
 ## Background

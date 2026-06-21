@@ -1,4 +1,6 @@
 ---
+
+
 title: adding same handler to all loggers at once in main script
 date: '2019-05-21T00:00:00+00:00'
 lastmod: '2019-05-21T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: adding-same-handler-to-all-loggers-at-once-in-main-script
 categories:
 - python
 tags:
-- handler
-- logger
-- logging
+- "handler"
+- "logger"
+- "logging"
+- "same"
+- "all"
 draft: false
 ---
 ```python

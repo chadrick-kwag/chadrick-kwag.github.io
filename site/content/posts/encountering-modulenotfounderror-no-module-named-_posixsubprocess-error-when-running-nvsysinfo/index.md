@@ -1,4 +1,6 @@
 ---
+
+
 title: 'encountering "ModuleNotFoundError: No module named ''_posixsubprocess''" error
   when running nvsysinfo'
 date: '2019-05-13T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: encountering-modulenotfounderror-no-module-named-_posixsubprocess-error-wh
 categories:
 - python
 tags:
-- error
-- nvidia
-- nvsysinfo
+- "nvidia"
+- "nvsysinfo"
+- "modulenotfounderror"
+- "false"
+- "no"
 draft: false
 ---
 even confirming nvsysinfo is installed through apt, running nvsysinfo with `sudo` or even in root account produces the following error.

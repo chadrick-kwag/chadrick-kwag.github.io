@@ -1,4 +1,6 @@
 ---
+
+
 title: python implementation of rotating caliper algorithm
 date: '2020-08-12T00:00:00+00:00'
 lastmod: '2020-08-12T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: python-implementation-of-rotating-caliper-algorithm
 categories:
 - python
 tags:
-- python-implementation
-- rotating-caliper
+- "python-implementation"
+- "rotating-caliper"
+- "rotating"
+- "caliper"
+- "algorithm"
 draft: false
 ---
 Rotating caliper algorithm is used to find a rectangle that fits a convex hull. Below is a python implementation that finds all rotated rectangles for a given convex hull points. It is up to the user to select which rectangle to use since it returns all possible rotating caliper rectangles.

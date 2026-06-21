@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "FastDepth: Fast Monocular Depth Estimation on Embedded Systems"'
 date: '2020-12-19T00:00:00+00:00'
 lastmod: '2020-12-19T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: paper-review-fastdepth-fast-monocular-depth-estimation-on-embedded-systems
 categories:
 - paper-review
 tags:
-- fastdepth
+- "fastdepth"
+- "fast"
+- "monocular"
+- "depth"
+- "estimation"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/1903.03273>

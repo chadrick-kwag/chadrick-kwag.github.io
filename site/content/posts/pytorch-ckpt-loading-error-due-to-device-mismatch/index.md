@@ -1,4 +1,6 @@
 ---
+
+
 title: pytorch ckpt loading error due to device mismatch
 date: '2020-04-17T00:00:00+00:00'
 lastmod: '2020-04-17T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: pytorch-ckpt-loading-error-due-to-device-mismatch
 categories:
 - machine-learning
 tags:
-- pytorch-load-error
-- torch-load-error
+- "pytorch"
+- "pytorch-load-error"
+- "torch-load-error"
+- "ckpt"
+- "due"
 draft: false
 ---
 # Problem

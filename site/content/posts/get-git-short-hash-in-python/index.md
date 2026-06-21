@@ -1,4 +1,6 @@
 ---
+
+
 title: get git short hash in python
 date: '2021-12-10T00:00:00+00:00'
 lastmod: '2021-12-10T00:00:00+00:00'
@@ -6,9 +8,9 @@ slug: get-git-short-hash-in-python
 categories:
 - python
 tags:
-- git
-- hash
-- python
+- "git"
+- "hash"
+- "short"
 draft: false
 ---
 ```python

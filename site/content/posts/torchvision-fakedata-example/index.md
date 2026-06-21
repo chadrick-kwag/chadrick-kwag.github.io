@@ -1,4 +1,6 @@
 ---
+
+
 title: torchvision fakedata example
 date: '2020-12-12T00:00:00+00:00'
 lastmod: '2020-12-12T00:00:00+00:00'
@@ -6,8 +8,8 @@ slug: torchvision-fakedata-example
 categories:
 - machine-learning
 tags:
-- fakedata
-- torchvision
+- "torchvision"
+- "fakedata"
 draft: false
 ---
 torchvision supports various datasets and one of them is `fakedata` dataset. I was curious what this actually generated and here is an example

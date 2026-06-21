@@ -1,4 +1,6 @@
 ---
+
+
 title: 'error fix: onnxruntime "Type Error: Type ''tensor(int64)'' of input parameter
   of operator(Min) in node is invalid'''
 date: '2021-11-17T00:00:00+00:00'
@@ -7,11 +9,11 @@ slug: error-fix-onnxruntime-type-error-type-tensorint64-of-input-parameter-of-op
 categories:
 - machine-learning
 tags:
-- graph-invalid
-- onnx
-- opset
-- type-error
-- type-invalid
+- "onnxruntime"
+- "onnx"
+- "graph-invalid"
+- "opset"
+- "type-error"
 draft: false
 ---
 # Background

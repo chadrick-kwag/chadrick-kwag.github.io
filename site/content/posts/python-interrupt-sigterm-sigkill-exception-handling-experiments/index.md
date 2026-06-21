@@ -1,4 +1,6 @@
 ---
+
+
 title: python interrupt, sigterm, sigkill, exception handling experiments
 date: '2022-07-08T00:00:00+00:00'
 lastmod: '2022-07-08T00:00:00+00:00'
@@ -6,13 +8,11 @@ slug: python-interrupt-sigterm-sigkill-exception-handling-experiments
 categories:
 - python
 tags:
-- exception
-- keyboardinterrupt
-- kill
-- python
-- sigint
-- sigkill
-- terminate
+- "exception"
+- "keyboardinterrupt"
+- "kill"
+- "sigint"
+- "sigkill"
 draft: false
 ---
 When thinking both Exceptions and interrupts at the same time, things can get confusing so here I write down some simple experiments that I did to clear some confusing concepts.

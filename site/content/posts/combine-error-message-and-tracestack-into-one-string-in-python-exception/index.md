@@ -1,4 +1,6 @@
 ---
+
+
 title: combine error message and tracestack into one string in python Exception
 date: '2019-07-25T00:00:00+00:00'
 lastmod: '2019-07-25T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: combine-error-message-and-tracestack-into-one-string-in-python-exception
 categories:
 - python
 tags:
-- error-string
-- exception-string
-- exception-traceback
-- exception-traceback-and-message
-- python
+- "error-string"
+- "exception-string"
+- "exception-traceback"
+- "exception-traceback-and-message"
+- "message"
 draft: false
 ---
 ```generic

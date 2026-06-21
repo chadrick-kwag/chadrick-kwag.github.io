@@ -1,4 +1,6 @@
 ---
+
+
 title: postgres database backup and restoring
 date: '2021-02-10T00:00:00+00:00'
 lastmod: '2021-02-10T00:00:00+00:00'
@@ -6,9 +8,10 @@ slug: postgres-database-backup-and-restoring
 categories:
 - database
 tags:
-- backup
-- postgres
-- restore
+- "postgresql"
+- "backup"
+- "restore"
+- "restoring"
 draft: false
 ---
 I am relatively new to postgres and at first I was backing up and restoring databases using pgadmin4. I was just using `postgres` user because this is the default one that you get to use when working with pgadmin. After developing a web project using postgres, I needed to move the database I used to somewhere else. This time, I needed to restore the backup using CLI instead of the GUI pgadmin that I was used to.

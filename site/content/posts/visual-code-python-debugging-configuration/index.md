@@ -1,4 +1,6 @@
 ---
+
+
 title: visual code python debugging configuration
 date: '2021-04-30T00:00:00+00:00'
 lastmod: '2021-04-30T00:00:00+00:00'
@@ -6,12 +8,11 @@ slug: visual-code-python-debugging-configuration
 categories:
 - python
 tags:
-- debugging
-- launch-json
-- python
-- python-debug
-- visual-code
-- vscode
+- "visual-studio-code"
+- "debugging"
+- "launch-json"
+- "python-debug"
+- "visual"
 draft: false
 ---
 creating the most basic `launch.json` file is explained well in official docs.

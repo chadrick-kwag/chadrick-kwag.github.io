@@ -1,4 +1,6 @@
 ---
+
+
 title: converting cv2 img to cairo surface(cairo.RGB format)
 date: '2018-11-13T00:00:00+00:00'
 lastmod: '2018-11-13T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: converting-cv2-img-to-cairo-surface
 categories:
 - machine-learning
 tags:
-- cairo
-- cairocffi
-- cv2-to-cairo-surface
-- python
+- "cairo"
+- "cairocffi"
+- "cv2-to-cairo-surface"
+- "opencv"
+- "img"
 draft: false
 ---
 When working with cairo, occasions arise when the user wants to directly load a surface from an image. Of course, one can use the `create_from_png` method but what if the user already has a variable that hold the image data in memory? I faced such situations often when working with opencv matrices and cairo. Below is an example code which implements a simple way to convert a cv2 matrice directly to a cairocffi surface.

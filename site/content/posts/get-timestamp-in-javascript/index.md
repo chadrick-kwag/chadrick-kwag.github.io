@@ -1,4 +1,6 @@
 ---
+
+
 title: get timestamp in javascript
 date: '2020-03-10T00:00:00+00:00'
 lastmod: '2020-03-10T00:00:00+00:00'
@@ -6,8 +8,8 @@ slug: get-timestamp-in-javascript
 categories:
 - web
 tags:
-- javascript
-- timestamp
+- "javascript"
+- "timestamp"
 draft: false
 ---
 unfortunately there isn’t any native way to get formatted timestamp. Here is a script that does the job.

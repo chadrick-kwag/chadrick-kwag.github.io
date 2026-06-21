@@ -1,4 +1,6 @@
 ---
+
+
 title: cross entropy loss / focal loss implmentation in pytorch
 date: '2020-08-21T00:00:00+00:00'
 lastmod: '2020-08-21T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: cross-entropy-loss-focal-loss-implmentation-in-pytorch
 categories:
 - machine-learning
 tags:
-- cross-entropy-loss
-- focal-loss
-- focal-loss-implementation
-- pytorch
-- torch
+- "focal-loss"
+- "cross-entropy-loss"
+- "pytorch"
+- "focal-loss-implementation"
+- "cross"
 draft: false
 ---
 at the moment, the code is written for torch 1.4

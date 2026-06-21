@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "Path Aggregation Network for Instance Segmentation"'
 date: '2021-01-06T00:00:00+00:00'
 lastmod: '2021-01-06T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: paper-review-path-aggregation-network-for-instance-segmentation
 categories:
 - paper-review
 tags:
-- instance-segmentation
-- panet
-- paper-review
-- path-aggregation-network
+- "instance-segmentation"
+- "panet"
+- "path-aggregation-network"
+- "path"
+- "aggregation"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/1803.01534>

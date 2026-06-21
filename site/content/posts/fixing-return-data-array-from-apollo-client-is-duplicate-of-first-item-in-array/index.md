@@ -1,4 +1,6 @@
 ---
+
+
 title: fixing return data array from apollo client is duplicate of first item in array
 date: '2020-08-11T00:00:00+00:00'
 lastmod: '2020-08-11T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: fixing-return-data-array-from-apollo-client-is-duplicate-of-first-item-in-
 categories:
 - web
 tags:
-- apollo-client
-- first-item-of-array-duplicate
+- "apollo-client"
+- "first-item-of-array-duplicate"
+- "return"
+- "data"
+- "array"
 draft: false
 ---
 ## Situation

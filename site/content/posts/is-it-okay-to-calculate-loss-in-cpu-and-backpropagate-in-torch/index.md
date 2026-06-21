@@ -1,4 +1,6 @@
 ---
+
+
 title: is it okay to calculate loss in cpu and backpropagate in torch?
 date: '2021-03-03T00:00:00+00:00'
 lastmod: '2021-03-03T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: is-it-okay-to-calculate-loss-in-cpu-and-backpropagate-in-torch
 categories:
 - machine-learning
 tags:
-- calculate-loss-in-cpu
-- gpu-cpu
-- torch
+- "calculate-loss-in-cpu"
+- "gpu-cpu"
+- "pytorch"
+- "okay"
+- "calculate"
 draft: false
 ---
 When using torch, while it is common to run the network in gpu, I wasn’t always so sure if it was mandatory for me to calculate the loss on the same gpu as the output at all times. If I can do loss calculation in cpu, then it would help to reduce my gpu memory consumption.

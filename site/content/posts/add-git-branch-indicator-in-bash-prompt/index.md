@@ -1,11 +1,18 @@
 ---
+
+
 title: add git branch indicator in bash prompt
 date: '2019-04-15T00:00:00+00:00'
 lastmod: '2019-04-15T00:00:00+00:00'
 slug: add-git-branch-indicator-in-bash-prompt
 categories:
 - linux
-tags: []
+tags:
+- "git"
+- "bash"
+- "branch"
+- "indicator"
+- "prompt"
 draft: false
 ---
 # Add git branch if its present to PS1

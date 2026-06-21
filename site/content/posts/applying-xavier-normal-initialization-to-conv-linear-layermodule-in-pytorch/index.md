@@ -1,4 +1,6 @@
 ---
+
+
 title: applying xavier normal initialization to conv/linear layer(module) in pytorch
 date: '2020-04-06T00:00:00+00:00'
 lastmod: '2020-04-06T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: applying-xavier-normal-initialization-to-conv-linear-layermodule-in-pytorc
 categories:
 - machine-learning
 tags:
-- glorot-initialization
-- initialization
-- pytorch
-- xavier-initialization
+- "pytorch"
+- "glorot-initialization"
+- "initialization"
+- "xavier-initialization"
+- "xavier"
 draft: false
 ---
 in tensorflow, default initialization used is glorot normal initialization which is also known as xavier normal initialization. To use the same setting in pytorch, the following practice should be done.

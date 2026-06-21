@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: “BART: Denoising Sequence-to-Sequence Pre-training for Natural
   Language Generation, Translation, and Comprehension”'
 date: '2022-01-11T00:00:00+00:00'
@@ -7,10 +9,11 @@ slug: paper-review-bart-denoising-sequence-to-sequence-pre-training-for-natural-
 categories:
 - paper-review
 tags:
-- bart
-- deeplearning
-- nlp
-- paper-review
+- "bart"
+- "deeplearning"
+- "nlp"
+- "denoising"
+- "sequence"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/1910.13461>

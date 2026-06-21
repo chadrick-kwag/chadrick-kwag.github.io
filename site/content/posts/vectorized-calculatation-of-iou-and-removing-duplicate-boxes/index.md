@@ -1,4 +1,6 @@
 ---
+
+
 title: calculating IOU in a vectorized manner and fetching index pairs that are above
   threshold
 date: '2019-01-25T00:00:00+00:00'
@@ -7,8 +9,11 @@ slug: vectorized-calculatation-of-iou-and-removing-duplicate-boxes
 categories:
 - machine-learning
 tags:
-- iou
-- numpy
+- "iou"
+- "numpy"
+- "vectorized"
+- "calculatation"
+- "removing"
 draft: false
 ---
 when doing object detection, it would be very hard to avoid calculating IOU at some point. Although this could be done iteratively one by one in python with a for loop if there are only a few boxes, when the number of boxes become large the computation time increases significantly. One way to speed things up is to caluclate the IOU matrix in a vectorized manner: in other words, calculating in units of arrays.

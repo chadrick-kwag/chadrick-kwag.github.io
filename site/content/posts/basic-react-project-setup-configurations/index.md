@@ -1,11 +1,16 @@
 ---
+
+
 title: basic react project setup configurations
 date: '2020-03-28T00:00:00+00:00'
 lastmod: '2020-03-28T00:00:00+00:00'
 slug: basic-react-project-setup-configurations
 categories:
 - web
-tags: []
+tags:
+- "react"
+- "basic"
+- "project"
 draft: false
 ---
 ## npm install commands

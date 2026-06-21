@@ -1,4 +1,6 @@
 ---
+
+
 title: npm config setting (corporate proxy target config example)
 date: '2020-03-04T00:00:00+00:00'
 lastmod: '2020-03-04T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: npm-config-setting-corporate-proxy-target-config-example
 categories:
 - linux
 tags:
-- npm
-- npm-config
-- npm-config-corporate
-- npm-proxy
+- "proxy"
+- "npm"
+- "npm-config"
+- "npm-config-corporate"
+- "npm-proxy"
 draft: false
 ---
 if you are in a corporate environment, then there is a high chance that you will have to bypass through a specific proxy with a cert file or worse, public internet access is completely shutoff and you can only access a repository setup by the corporate.

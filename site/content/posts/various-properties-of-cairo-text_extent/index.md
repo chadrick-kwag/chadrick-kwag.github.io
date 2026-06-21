@@ -1,4 +1,6 @@
 ---
+
+
 title: various properties of cairo `text_extent`
 date: '2020-11-23T00:00:00+00:00'
 lastmod: '2020-11-23T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: various-properties-of-cairo-text_extent
 categories:
 - machine-learning
 tags:
-- cairo
-- context
-- rotation
-- text-extent
+- "cairo"
+- "context"
+- "rotation"
+- "text-extent"
+- "various"
 draft: false
 ---
 when using cairo with python, the `text_extent` function call is powerful because it returns coordinate information of the text the user wants to print. However, the information depends on the `Context` which will be used when calling this function and this context may have different properties.

@@ -1,4 +1,6 @@
 ---
+
+
 title: positioning footprints in wanted places and updateing it in gui of pcbnew
 date: '2019-11-24T00:00:00+00:00'
 lastmod: '2019-11-24T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: positioning-footprints-in-wanted-places-and-updateing-it-in-gui-of-pcbnew
 categories:
 - python
 tags:
-- pcbnew
-- python
+- "pcbnew"
+- "positioning"
+- "footprints"
+- "wanted"
+- "places"
 draft: false
 ---
 here is a sample code

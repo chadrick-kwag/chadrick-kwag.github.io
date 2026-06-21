@@ -1,4 +1,6 @@
 ---
+
+
 title: matplotlib draw heatmap figure with colorbar
 date: '2021-02-09T00:00:00+00:00'
 lastmod: '2021-02-09T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: matplotlib-draw-heatmap-figure-with-colorbar
 categories:
 - python
 tags:
-- colorbar
-- figure
-- heatmap
-- matplotlib
-- pyplot
+- "matplotlib"
+- "colorbar"
+- "figure"
+- "heatmap"
+- "pyplot"
 draft: false
 ---
 here is the sample code for drawing a single axis in a figure.

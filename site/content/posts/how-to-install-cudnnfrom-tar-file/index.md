@@ -1,4 +1,6 @@
 ---
+
+
 title: how to install cudnn(from tar file)
 date: '2019-09-17T00:00:00+00:00'
 lastmod: '2019-09-17T00:00:00+00:00'
@@ -6,8 +8,10 @@ slug: how-to-install-cudnnfrom-tar-file
 categories:
 - machine-learning
 tags:
-- cudnn
-- install
+- "cudnn"
+- "cudnnfrom"
+- "tar"
+- "file"
 draft: false
 ---
 from [nvidia docs](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)

@@ -1,11 +1,17 @@
 ---
+
+
 title: cv2 resize interpolation methods
 date: '2018-11-14T00:00:00+00:00'
 lastmod: '2018-11-14T00:00:00+00:00'
 slug: cv2-resize-interpolation-methods
 categories:
 - machine-learning
-tags: []
+tags:
+- "opencv"
+- "resize"
+- "interpolation"
+- "methods"
 draft: false
 ---
 - **INTER_NEAREST** - a nearest-neighbor interpolation

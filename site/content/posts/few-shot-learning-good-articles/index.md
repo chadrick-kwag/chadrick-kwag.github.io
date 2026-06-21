@@ -1,4 +1,6 @@
 ---
+
+
 title: few shot learning good articles
 date: '2021-04-09T00:00:00+00:00'
 lastmod: '2021-04-09T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: few-shot-learning-good-articles
 categories:
 - machine-learning
 tags:
-- few-shot-learning
+- "few-shot-learning"
+- "few"
+- "shot"
+- "learning"
+- "articles"
 draft: false
 ---
 <https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77>

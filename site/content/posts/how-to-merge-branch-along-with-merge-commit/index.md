@@ -1,4 +1,6 @@
 ---
+
+
 title: how to merge branch along with merge commit
 date: '2020-02-28T00:00:00+00:00'
 lastmod: '2020-02-28T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: how-to-merge-branch-along-with-merge-commit
 categories:
 - tools
 tags:
-- git
-- merge-commit
+- "git"
+- "merge-commit"
+- "merge"
+- "branch"
+- "along"
 draft: false
 ---
 Assume I have created a `dev` branch from `master` branch at some point. I made a few commits to `dev` and then merge these commits back to `master`. If I blatantly use the following command,

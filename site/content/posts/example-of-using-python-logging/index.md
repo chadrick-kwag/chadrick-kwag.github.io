@@ -1,4 +1,6 @@
 ---
+
+
 title: example of using python logging logger
 date: '2018-11-14T00:00:00+00:00'
 lastmod: '2018-11-14T00:00:00+00:00'
@@ -6,9 +8,8 @@ slug: example-of-using-python-logging
 categories:
 - python
 tags:
-- logger
-- logging
-- python
+- "logger"
+- "logging"
 draft: false
 ---
 at the main script, insert the code below to setup a logger named `debug`.

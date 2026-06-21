@@ -1,4 +1,6 @@
 ---
+
+
 title: good summary on normalization methods
 date: '2020-10-14T00:00:00+00:00'
 lastmod: '2020-10-14T00:00:00+00:00'
@@ -6,7 +8,8 @@ slug: good-summary-on-normalization-methods
 categories:
 - machine-learning
 tags:
-- normalization
+- "normalization"
+- "methods"
 draft: false
 ---
 link: <https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6>

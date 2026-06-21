@@ -1,4 +1,6 @@
 ---
+
+
 title: '"U-Net: Convolutional Networks for BiomedicalImage Segmentation" paper review'
 date: '2020-08-18T00:00:00+00:00'
 lastmod: '2020-08-18T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: u-net-convolutional-networks-for-biomedicalimage-segmentation-paper-review
 categories:
 - paper-review
 tags:
-- paper-review
-- unet
+- "unet"
+- "net"
+- "convolutional"
+- "networks"
+- "biomedicalimage"
 draft: false
 ---
 arxiv [link](https://arxiv.org/pdf/1505.04597.pdf)

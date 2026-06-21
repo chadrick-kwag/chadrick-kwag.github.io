@@ -1,4 +1,6 @@
 ---
+
+
 title: DenseNet paper review
 date: '2019-05-02T00:00:00+00:00'
 lastmod: '2019-05-02T00:00:00+00:00'
@@ -6,7 +8,8 @@ slug: densenet-paper-review
 categories:
 - paper-review
 tags:
-- densenet
+- "densenet"
+- "image-classification"
 draft: false
 ---
 paper url: <https://arxiv.org/pdf/1608.06993.pdf>

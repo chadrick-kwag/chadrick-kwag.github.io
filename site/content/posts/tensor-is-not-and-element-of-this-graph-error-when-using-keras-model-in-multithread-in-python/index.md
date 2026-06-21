@@ -1,4 +1,6 @@
 ---
+
+
 title: '`Tensor is not and element of this graph` error when using Keras model in
   multithread in python'
 date: '2019-01-21T00:00:00+00:00'
@@ -6,7 +8,12 @@ lastmod: '2019-01-21T00:00:00+00:00'
 slug: tensor-is-not-and-element-of-this-graph-error-when-using-keras-model-in-multithread-in-python
 categories:
 - machine-learning
-tags: []
+tags:
+- "tensor"
+- "element"
+- "graph"
+- "tensorflow"
+- "model"
 draft: false
 ---
 When a python script containing a keras model, it will work fine when the script is executed without any multithreading/multiprocessing. However, once multithreading is used and a keras model needs to execute in a new thread, it will cause problems. Here is an error message that I encountered.

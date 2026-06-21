@@ -1,4 +1,6 @@
 ---
+
+
 title: tf.where examples and its behavior
 date: '2019-07-22T00:00:00+00:00'
 lastmod: '2019-07-22T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: tf-where-examples-and-its-behavior
 categories:
 - machine-learning
 tags:
-- example
-- tensorflow-equal
-- tf-equal
-- tf-where
+- "tensorflow-equal"
+- "tf-equal"
+- "tf-where"
+- "tensorflow"
+- "behavior"
 draft: false
 ---
 Before going into `tf.where` example, a proper way to implement equal comparison in tensorflow will be demonstrated since equal comparison will be used as the condition of the `tf.where`.

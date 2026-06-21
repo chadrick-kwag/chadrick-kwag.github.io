@@ -1,4 +1,6 @@
 ---
+
+
 title: 'ssh local port forwarding and error fix for "channel 3: open failed: connect
   failed: Connection refused"'
 date: '2020-08-10T00:00:00+00:00'
@@ -7,8 +9,11 @@ slug: ssh-local-port-forwarding-and-error-fix-for-channel-3-open-failed-connect-
 categories:
 - linux
 tags:
-- channel-3-open-failed
-- ssh-local-port-forwarding
+- "channel-3-open-failed"
+- "ssh-local-port-forwarding"
+- "ssh"
+- "local"
+- "port"
 draft: false
 ---
 ## My Scenario

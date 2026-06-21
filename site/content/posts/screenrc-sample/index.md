@@ -1,4 +1,6 @@
 ---
+
+
 title: .screenrc sample
 date: '2018-12-24T00:00:00+00:00'
 lastmod: '2018-12-24T00:00:00+00:00'
@@ -6,7 +8,8 @@ slug: screenrc-sample
 categories:
 - linux
 tags:
-- screenrc
+- "screenrc"
+- "sample"
 draft: false
 ---
 ```generic

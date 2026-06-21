@@ -1,11 +1,18 @@
 ---
+
+
 title: gathering non-identical indices that match a condition in a matrix using tensorflow
 date: '2019-01-28T00:00:00+00:00'
 lastmod: '2019-01-28T00:00:00+00:00'
 slug: gathering-indices-that-matches-condition
 categories:
 - machine-learning
-tags: []
+tags:
+- "tensorflow"
+- "gathering"
+- "indices"
+- "matches"
+- "condition"
 draft: false
 ---
 here is an example. There is a square shaped 2-dimensional matrix(ss_matrix) and I want to get the index pairs which satisfy where the value of the matrix is above 0.8. But, I do not wish to select the index pairs where the first and second index are the same. This operation can be achieved in tensorflow with the combination of `tf.where` and `tf.gather`

@@ -1,4 +1,6 @@
 ---
+
+
 title: git lfs smudge error fix
 date: '2020-01-09T00:00:00+00:00'
 lastmod: '2020-01-09T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: git-lfs-smudge-error-fix
 categories:
 - linux
 tags:
-- git-lfs
-- proxy
-- smudge-error
+- "git-lfs"
+- "proxy"
+- "smudge-error"
+- "git"
+- "lfs"
 draft: false
 ---
 this is a solution for a specific case. The environment is under a corporate setting where firewalls are in place.

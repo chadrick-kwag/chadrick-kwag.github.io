@@ -1,4 +1,6 @@
 ---
+
+
 title: pylance stuck on "Searching for source files"
 date: '2022-07-31T00:00:00+00:00'
 lastmod: '2022-07-31T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: pylance-stuck-on-searching-for-source-files
 categories:
 - python
 tags:
-- pylance
-- stuck
-- visual-code
-- vscode
+- "pylance"
+- "stuck"
+- "visual-studio-code"
+- "searching"
+- "source-build"
 draft: false
 ---
 while using vscode, I noticed that pylance wasn’t running even after forcing pylance server restart. I checked the output logs and it was stuck at this line:

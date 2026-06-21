@@ -1,4 +1,6 @@
 ---
+
+
 title: '"getDisplayMedia must be called from a user gesture handler" error fix'
 date: '2020-03-04T00:00:00+00:00'
 lastmod: '2020-03-04T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: getdisplaymedia-must-be-called-from-a-user-gesture-handler-error-fix
 categories:
 - web
 tags:
-- error
-- getdisplaymedia
-- javascript
-- user-gesture-handler
+- "getdisplaymedia"
+- "javascript"
+- "user-gesture-handler"
+- "must"
+- "called"
 draft: false
 ---
 # Problem

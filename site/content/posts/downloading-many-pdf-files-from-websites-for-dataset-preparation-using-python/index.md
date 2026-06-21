@@ -1,4 +1,6 @@
 ---
+
+
 title: web scraping many pdf files from websites for dataset preparation using python
 date: '2022-05-24T00:00:00+00:00'
 lastmod: '2022-05-24T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: downloading-many-pdf-files-from-websites-for-dataset-preparation-using-pyt
 categories:
 - python
 tags:
-- download
-- pdf
-- scrap
-- web-scraping
-- web-scrapper
+- "download"
+- "pdf"
+- "web-scraping"
+- "web-scrapper"
+- "downloading"
 draft: false
 ---
 There are good websites which store a lot of pdf files that can be used for data. However, it can be quite difficult to automate the downloading process with a simple web scraping tool because the data download url that the user wants resides behind another webpage. I will use IMF website for example.

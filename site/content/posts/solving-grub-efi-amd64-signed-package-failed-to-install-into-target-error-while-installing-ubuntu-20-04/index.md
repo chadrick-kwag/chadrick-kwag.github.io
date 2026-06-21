@@ -1,4 +1,6 @@
 ---
+
+
 title: solving "'grub-efi-amd64-signed' package failed to install into /target/."
   error while installing ubuntu 20.04
 date: '2020-06-03T00:00:00+00:00'
@@ -7,8 +9,11 @@ slug: solving-grub-efi-amd64-signed-package-failed-to-install-into-target-error-
 categories:
 - linux
 tags:
-- grub-efi-amd64-signed-package-failed-to-install
-- ubuntu-20-04-install
+- "ubuntu"
+- "grub-efi-amd64-signed-package-failed-to-install"
+- "ubuntu-20-04-install"
+- "solving"
+- "grub"
 draft: false
 ---
 I encountered the infamous “'**grub**-**efi**-**amd64**-**signed**' **package failed to install into** /**target**/.” error when installing ubuntu 20.04 along with preinstalled windows 10 in my desktop. Here are the setting environments

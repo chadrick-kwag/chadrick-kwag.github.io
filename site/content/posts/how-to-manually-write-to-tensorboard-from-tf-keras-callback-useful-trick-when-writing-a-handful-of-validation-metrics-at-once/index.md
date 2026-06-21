@@ -1,4 +1,6 @@
 ---
+
+
 title: how to manually write to tensorboard from tf.keras callback (useful trick when
   writing a handful of validation metrics at once)
 date: '2019-07-25T00:00:00+00:00'
@@ -6,7 +8,12 @@ lastmod: '2019-07-25T00:00:00+00:00'
 slug: how-to-manually-write-to-tensorboard-from-tf-keras-callback-useful-trick-when-writing-a-handful-of-validation-metrics-at-once
 categories:
 - machine-learning
-tags: []
+tags:
+- "manually"
+- "write"
+- "tensorboard"
+- "tensorflow"
+- "callback"
 draft: false
 ---
 `tf.keras` does support `Metric` classes which can evaludate metrics at each batch. However, it does have a limitation that it can only calculat on training data and it can only output only one value.

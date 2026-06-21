@@ -1,4 +1,6 @@
 ---
+
+
 title: paper review:"Hierarchical multi-scale attention for semantic segmentation"
 date: '2020-12-16T00:00:00+00:00'
 lastmod: '2020-12-16T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: paper-reviewhierarchical-multi-scale-attention-for-semantic-segmentation
 categories:
 - paper-review
 tags:
-- auto-labeling
-- hierarchical-attention
-- hierarchical-multi-scale-attention-for-semantic-segmentation
-- hierarchical-multiscale-attention
+- "semantic-segmentation"
+- "auto-labeling"
+- "hierarchical-attention"
+- "hierarchical-multi-scale-attention-for-semantic-segmentation"
+- "hierarchical-multiscale-attention"
 draft: false
 ---
 arxiv: <https://arxiv.org/abs/2005.10821>

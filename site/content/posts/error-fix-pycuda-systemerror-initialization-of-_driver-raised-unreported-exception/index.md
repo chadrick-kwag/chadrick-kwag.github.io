@@ -1,4 +1,6 @@
 ---
+
+
 title: 'error fix: pycuda "SystemError: initialization of _driver raised unreported
   exception"'
 date: '2021-11-19T00:00:00+00:00'
@@ -7,9 +9,11 @@ slug: error-fix-pycuda-systemerror-initialization-of-_driver-raised-unreported-e
 categories:
 - machine-learning
 tags:
-- driver
-- error
-- pycuda
+- "cuda"
+- "driver"
+- "pycuda"
+- "systemerror"
+- "initialization"
 draft: false
 ---
 # Background

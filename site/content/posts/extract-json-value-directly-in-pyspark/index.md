@@ -1,11 +1,18 @@
 ---
+
+
 title: extract json value directly in pyspark
 date: '2023-08-11T00:00:00+00:00'
 lastmod: '2023-08-11T00:00:00+00:00'
 slug: extract-json-value-directly-in-pyspark
 categories:
 - database
-tags: []
+tags:
+- "extract"
+- "json"
+- "value"
+- "directly"
+- "pyspark"
 draft: false
 ---
 Say a spark dataframe has a column named `json_str_col` which contains json format strings, and the json format string have the format {“key1” : “some value”}

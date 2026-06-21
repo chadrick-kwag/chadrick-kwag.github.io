@@ -1,4 +1,6 @@
 ---
+
+
 title: tensorflow cuda/cudnn support matrix
 date: '2019-03-18T00:00:00+00:00'
 lastmod: '2019-03-18T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: tensorflow-cuda-support-matrix
 categories:
 - machine-learning
 tags:
-- cuda
-- support-matrix
+- "cuda"
+- "cudnn"
+- "tensorflow"
+- "support-matrix"
+- "support"
 draft: false
 ---
 <https://www.tensorflow.org/install/source#tested_build_configurations>

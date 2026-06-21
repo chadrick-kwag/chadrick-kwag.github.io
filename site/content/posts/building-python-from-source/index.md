@@ -1,11 +1,15 @@
 ---
+
+
 title: building python from source
 date: '2019-01-03T00:00:00+00:00'
 lastmod: '2019-01-03T00:00:00+00:00'
 slug: building-python-from-source
 categories:
 - python
-tags: []
+tags:
+- "source-build"
+- "compilation"
 draft: false
 ---
 prepare installing packages (assuming Ubuntu environment)

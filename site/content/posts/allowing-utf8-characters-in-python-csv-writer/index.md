@@ -1,4 +1,6 @@
 ---
+
+
 title: allowing utf8 characters in python csv writer
 date: '2020-11-05T00:00:00+00:00'
 lastmod: '2020-11-05T00:00:00+00:00'
@@ -6,9 +8,10 @@ slug: allowing-utf8-characters-in-python-csv-writer
 categories:
 - python
 tags:
-- csv
-- python
-- utf8
+- "csv"
+- "utf8"
+- "characters"
+- "writer"
 draft: false
 ---
 reference: <https://stackoverflow.com/questions/46551955/python-3-csv-utf-8-encoding>

@@ -1,4 +1,6 @@
 ---
+
+
 title: installing latest nvidia driver in ubuntu
 date: '2019-05-03T00:00:00+00:00'
 lastmod: '2019-05-03T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: installing-latest-nvidia-driver-in-ubuntu
 categories:
 - linux
 tags:
-- nvidia-driver
+- "ubuntu"
+- "nvidia-driver"
+- "installing"
+- "latest"
+- "nvidia"
 draft: false
 ---
 sometimes when in need of upgrading the nvidia driver in ubuntu to some latest versions, the desired version is not yet available in the vanilla PPAs is ubuntu.

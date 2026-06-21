@@ -1,4 +1,6 @@
 ---
+
+
 title: git error when checkout remote branch
 date: '2020-02-20T00:00:00+00:00'
 lastmod: '2020-02-20T00:00:00+00:00'
@@ -6,8 +8,11 @@ slug: git-error-when-checkout-remote-branch
 categories:
 - tools
 tags:
-- git
-- git-checkout
+- "git"
+- "git-checkout"
+- "checkout"
+- "remote"
+- "branch"
 draft: false
 ---
 I am currently in some branch and want to checkout to a remote branch named `dev1` which is not yet existent in local git. So I tried calling,

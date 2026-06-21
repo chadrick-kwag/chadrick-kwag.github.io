@@ -1,4 +1,6 @@
 ---
+
+
 title: forcing memory release of gpu
 date: '2018-12-05T00:00:00+00:00'
 lastmod: '2018-12-05T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: forcing-memory-release-of-gpu
 categories:
 - machine-learning
 tags:
-- gpu-memeory-release
+- "gpu-memeory-release"
+- "forcing"
+- "memory"
+- "release"
+- "gpu"
 draft: false
 ---
 identifying which pid is occupying the gpu can be found following this [thread](https://stackoverflow.com/questions/15197286/how-can-i-flush-gpu-memory-using-cuda-physical-reset-is-unavailable).

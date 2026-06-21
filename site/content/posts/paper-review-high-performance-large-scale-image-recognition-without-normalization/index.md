@@ -1,4 +1,6 @@
 ---
+
+
 title: 'paper review: "High-Performance Large-Scale Image Recognition Without Normalization"'
 date: '2021-03-02T00:00:00+00:00'
 lastmod: '2021-03-02T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: paper-review-high-performance-large-scale-image-recognition-without-normal
 categories:
 - paper-review
 tags:
-- adaptive-gradient-clipping
-- agc
-- nfnets
-- normalizer-free
+- "adaptive-gradient-clipping"
+- "agc"
+- "nfnets"
+- "normalizer-free"
+- "high"
 draft: false
 ---
 arxiv: <https://arxiv.org/pdf/2102.06171v1.pdf>

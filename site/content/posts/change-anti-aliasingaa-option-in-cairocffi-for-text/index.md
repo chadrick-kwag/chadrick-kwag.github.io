@@ -1,4 +1,6 @@
 ---
+
+
 title: change anti-aliasing(AA) option in cairocffi for text
 date: '2018-11-15T00:00:00+00:00'
 lastmod: '2018-11-15T00:00:00+00:00'
@@ -6,11 +8,11 @@ slug: change-anti-aliasingaa-option-in-cairocffi-for-text
 categories:
 - python
 tags:
-- aa
-- anti-aliasing
-- cairo
-- cairocffi
-- python
+- "cairo"
+- "cairocffi"
+- "aa"
+- "anti-aliasing"
+- "anti"
 draft: false
 ---
 By default, cairocffi will apply AA. If you want to disable or finetune the AA option when writing text, then check out the example code.

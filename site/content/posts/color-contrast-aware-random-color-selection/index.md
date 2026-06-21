@@ -1,4 +1,6 @@
 ---
+
+
 title: color contrast aware random color selection
 date: '2020-05-29T00:00:00+00:00'
 lastmod: '2020-05-29T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: color-contrast-aware-random-color-selection
 categories:
 - web
 tags:
-- color-contrast-ratio
+- "color-contrast-ratio"
+- "color"
+- "contrast"
+- "aware"
+- "selection"
 draft: false
 ---
 When generating synthetic image data, finding and using a pair of colors that are at least human readable is often useful. One crude way to do it is to find two colors in RGB space with minimum distance, but I find this method to be too crude and often it doesn’t give human readable contrast colors even with quite a bit of a high distance threshold.

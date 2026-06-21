@@ -1,4 +1,6 @@
 ---
+
+
 title: tensorflow convolution + batchnorm + activation example
 date: '2019-08-19T00:00:00+00:00'
 lastmod: '2019-08-19T00:00:00+00:00'
@@ -6,9 +8,11 @@ slug: tensorflow-convolution-batchnorm-activation-example
 categories:
 - machine-learning
 tags:
-- batchnorm
-- convolution
-- tensorflow
+- "batch-normalization"
+- "tensorflow"
+- "batchnorm"
+- "convolution"
+- "activation"
 draft: false
 ---
 The “convolution + batchnorm + activation” layer combination is an extremely powerful set which stabilizes training a lot. Since it appears in many model architectures, here I keep a tensorflow implementation for future reference.

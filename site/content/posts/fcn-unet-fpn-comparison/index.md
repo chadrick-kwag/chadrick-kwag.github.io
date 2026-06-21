@@ -1,4 +1,6 @@
 ---
+
+
 title: FCN, UNet, FPN comparison
 date: '2020-09-11T00:00:00+00:00'
 lastmod: '2020-09-11T00:00:00+00:00'
@@ -6,10 +8,11 @@ slug: fcn-unet-fpn-comparison
 categories:
 - machine-learning
 tags:
-- difference
-- fcn
-- fpn
-- unet
+- "difference"
+- "fcn"
+- "fpn"
+- "unet"
+- "comparison"
 draft: false
 ---
 The three all seem to have “downsampling and then upsampling” idea at the core. But what are the differences? Which one is the correct one to coin when referencing the “downsampling + upsampling” idea?

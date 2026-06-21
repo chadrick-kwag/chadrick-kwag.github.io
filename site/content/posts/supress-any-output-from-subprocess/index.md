@@ -1,4 +1,6 @@
 ---
+
+
 title: supress any output from subprocess
 date: '2019-11-13T00:00:00+00:00'
 lastmod: '2019-11-13T00:00:00+00:00'
@@ -6,8 +8,10 @@ slug: supress-any-output-from-subprocess
 categories:
 - python
 tags:
-- python
-- subprocess
+- "subprocess"
+- "supress"
+- "any"
+- "output"
 draft: false
 ---
 ```generic

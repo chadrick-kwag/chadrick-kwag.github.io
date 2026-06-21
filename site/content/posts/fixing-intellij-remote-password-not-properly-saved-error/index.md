@@ -1,4 +1,6 @@
 ---
+
+
 title: fixing intellij remote password not properly saved error
 date: '2020-07-09T00:00:00+00:00'
 lastmod: '2020-07-09T00:00:00+00:00'
@@ -6,7 +8,11 @@ slug: fixing-intellij-remote-password-not-properly-saved-error
 categories:
 - tools
 tags:
-- intellij-password
+- "intellij-password"
+- "intellij"
+- "remote"
+- "password"
+- "properly"
 draft: false
 ---
 ## Problem

@@ -1,11 +1,18 @@
 ---
+
+
 title: fix blank plot when using plotly in jupyter lab
 date: '2022-09-07T00:00:00+00:00'
 lastmod: '2022-09-07T00:00:00+00:00'
 slug: fix-blank-plot-when-using-plotly-in-jupyter-lab
 categories:
 - python
-tags: []
+tags:
+- "jupyter"
+- "blank"
+- "plot"
+- "plotly"
+- "lab"
 draft: false
 ---
 this helped: <https://github.com/plotly/plotly.py/issues/2508#issuecomment-907338746>
