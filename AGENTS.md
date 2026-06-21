@@ -47,6 +47,12 @@ draft: true
 
 - Start new posts with `draft: true`.
 - Flip to `draft: false` only when ready to publish.
+- For `categories` and `tags`, follow `docs/blog-taxonomy-guidelines.md`.
+
+## Taxonomy rules
+
+- When creating or editing post `categories` or `tags`, follow `docs/blog-taxonomy-guidelines.md`.
+- Do not invent new categories or ad-hoc tag naming conventions without updating that document.
 
 ## Local development
 
