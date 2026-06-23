@@ -4,6 +4,10 @@ title: Chadrick Blog
 theme: []
 enableRobotsTXT: true
 
+services:
+  googleAnalytics:
+    id: G-6SF9RG7FYC
+
 permalinks:
   posts: /posts/:slug/
 
