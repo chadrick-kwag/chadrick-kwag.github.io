@@ -11,7 +11,7 @@ tags:
 - reasoning
 - large-language-models
 - latent-reasoning
-draft: true
+draft: false
 ---
 
 reasoning 에 대한 연구 흐름을 짚어 본다.
