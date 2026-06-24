@@ -1,4 +1,4 @@
-# migrate_myblog
+# Chadrick Blog
 
 Hugo 기반 블로그 소스 저장소입니다. 실제 사이트 소스는 `site/` 아래에 있으며, 배포는 GitHub Pages용 GitHub Actions 워크플로로 처리합니다.
 
